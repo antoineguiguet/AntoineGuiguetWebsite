@@ -1,5 +1,5 @@
 ---
-title: 'An example journal article'
+title: 'Shared weapons of blood-and plant-feeding insects: surprising commonalities for manipulating hosts'
 authors:
   - admin
   - Robert Ford
