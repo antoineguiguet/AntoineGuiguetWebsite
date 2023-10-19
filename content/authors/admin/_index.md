@@ -10,15 +10,15 @@ last_name: Guiguet
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher in Entomology
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Naturalis Biodiversity Center
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include plant-insect interactions, mobile computing and programmable matter.
 
 interests:
   - Artificial Intelligence
@@ -47,13 +47,13 @@ social:
     link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/AntoineGuiguet
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.fr/citations?view_op=list_works&hl=fr&hl=fr&user=aLrKe2kAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/antoineguiguet
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
