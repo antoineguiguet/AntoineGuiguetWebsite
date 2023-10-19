@@ -8,7 +8,7 @@ authors:
   - Jack C Schultz
   - Marcos H Pereira
   - David Giron
-author_notes:
+author_notes: ""
 date: '2016-01-01T00:00:00Z'
 doi: 'https://doi.org/10.1016/j.jinsphys.2015.12.006'
 
