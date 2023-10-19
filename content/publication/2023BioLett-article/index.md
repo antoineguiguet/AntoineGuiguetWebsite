@@ -1,13 +1,17 @@
 ---
-title: '333Shared weapons of blood-and plant-feeding insects: surprising commonalities for manipulating hosts'
+title: 'Extreme acidity in a cynipid gall: a potential new defensive strategy against natural enemies'
 authors:
   - admin
-  - Robert Ford
+  - Nathaniel B McCartney
+  - Kadeem J Gilbert
+  - John F Tooker
+  - Andrew R Deans
+  - Jared G Ali
+  - Heather M Hines
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+
+date: '2023-03-01T00:00:00Z'
+doi: 'https://doi.org/10.1098/rsbl.2022.0513'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -19,10 +23,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Caca, 1*(1)'
+publication: '*Biology Letters, 19*(3)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The morphology of insect-induced galls contributes to defences of the gall-inducing insect species against its natural enemies. In terms of gall chemistry, the only defensive compounds thus far identified in galls are tannins that accumulate in many galls, preventing damage by herbivores. Intrigued by the fruit-like appearance of the translucent oak gall (TOG; Amphibolips nubilipennis, Cynipidae, Hymenoptera) induced on red oak (Quercus rubra), we hypothesized that its chemical composition may deviate from other galls. We found that the pH of the gall is between 2 and 3, making it among the lowest pH levels found in plant tissues. We examined the organic acid content of TOG and compared it to fruits and other galls using high-performance liquid chromatography and gas chromatography–mass spectrometry. Malic acid, an acid with particularly high abundance in apples, represents 66% of the organic acid detected in TOGs. The concentration of malic acid was two times higher than in other galls and in apples. Gall histology showed that the acid-containing cells were enlarged and vacuolized just like fruits mesocarp cells. Accumulation of organic acid in gall tissues is convergent with fruit morphology and may constitute a new defensive strategy against predators and parasitoids.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

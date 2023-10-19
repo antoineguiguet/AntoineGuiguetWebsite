@@ -1,13 +1,15 @@
 ---
-title: '5555Shared weapons of blood-and plant-feeding insects: surprising commonalities for manipulating hosts'
+title: 'Oak galls exhibit ant dispersal convergent with myrmecochorous seeds'
 authors:
+  - Robert J Warren
   - admin
-  - Robert Ford
+  - Chloe Mokadam
+  - John F Tooker
+  - Andrew R Deans
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
+
+date: '2022-08-01T00:00:00Z'
+doi: 'https://doi.org/10.1086/720283'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
@@ -19,10 +21,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Caca, 1*(1)'
+publication: '*The American Naturalist, 2*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Ants disperse oak galls of some cynipid wasp species similarly to how they disperse seeds with elaiosomes. We conducted choice assays in field and laboratory settings with ant-dispersed seeds and wasp-induced galls found in ant nests and found that seed-dispersing ants retrieve these galls as they do myrmecochorous seeds. We also conducted manipulative experiments in which we removed the putative ant-attracting appendages (“kapéllos”) from galls and found that ants are specifically attracted to kapéllos. Finally, we compared the chemical composition and histology of ant-attracting appendages on seeds and galls and found that they both have similar fatty acid compositions as well as morphology. We also observed seed-dispersing ants retrieving oak galls to their nests and rodents and birds consuming oak galls that were not retrieved by ants. These results suggest convergence in ant-mediated dispersal between myrmecochorous seeds and oak galls. Based on our observations, a protective advantage for galls retrieved to ant nests seems a more likely benefit than dispersal distance, as has also been suggested for myrmecochorous seeds. These results require reconsideration of established ant-plant research assumptions, as ant-mediated seed and gall dispersal appear strongly convergent and galls may be far more abundant in eastern North American deciduous forests than myrmecochorous seeds.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
