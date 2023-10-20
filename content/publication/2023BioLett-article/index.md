@@ -11,7 +11,7 @@ authors:
 author_notes: ""
 
 date: '2023-03-01T00:00:00Z'
-doi: 'https://doi.org/10.1098/rsbl.2022.0513'
+doi: "10.1098/rsbl.2022.0513"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
