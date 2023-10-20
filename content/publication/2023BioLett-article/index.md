@@ -22,11 +22,6 @@ publishDate: '2017-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-# Show publication and sharing statistics? (requires valid doi)
-add_badge: true
-
-featured: true
-
 # Publication name and optional abbreviated publication name.
 publication: '*Biology Letters, 19*(3)'
 publication_short: ''
@@ -38,6 +33,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
   - Source Themes
+featured: false
 
 # links:
 # - name: ""
@@ -53,7 +49,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-  image:
+image:
   caption: 'Image credit: [**Antoine Guiguet**]'
   focal_point: ''
   preview_only: false
