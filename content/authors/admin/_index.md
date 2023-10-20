@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include plant-insect interactions, mobile computing and programmable matter.
+bio: I am interested in the evolution and molecular ecology of plant-insect interactions.
 
 interests:
   - Plant-insect interactions
@@ -53,9 +53,17 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.fr/citations?view_op=list_works&hl=fr&hl=fr&user=aLrKe2kAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Antoine-Guiguet
+  - icon: inaturalist
+    icon_pack: ai
+    link: https://www.inaturalist.org/people/2774706
   - icon: github
     icon_pack: fab
     link: https://github.com/antoineguiguet
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
