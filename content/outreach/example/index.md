@@ -4,7 +4,7 @@ title: In Defense of Plants
 event: Interview by the podcast In Defense of Plants
 event_url: https://www.indefenseofplants.com/mattcandeiasindefenseofplants
 
-summary:Interview by the podcast In Defense of Plants.
+summary: Interview by the podcast In Defense of Plants.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
