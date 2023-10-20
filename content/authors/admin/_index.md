@@ -63,7 +63,7 @@ social:
     icon_pack: ai
     link: https://www.inaturalist.org/people/2774706
   - icon: flickr
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.flickr.com/people/199378048@N06/
   - icon: github
     icon_pack: fab
