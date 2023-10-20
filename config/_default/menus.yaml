@@ -10,8 +10,8 @@ main:
   - name: News
     url: post
     weight: 20
-  - name: About
-    url: people
+  - name: Bio
+    url: bio
     weight: 30
   - name: Outreach
     url: event
