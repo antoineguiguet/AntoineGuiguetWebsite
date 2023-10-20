@@ -25,6 +25,8 @@ publication_types: ['2']
 # Show publication and sharing statistics? (requires valid doi)
 add_badge: true
 
+featured: true
+
 # Publication name and optional abbreviated publication name.
 publication: '*Biology Letters, 19*(3)'
 publication_short: ''
