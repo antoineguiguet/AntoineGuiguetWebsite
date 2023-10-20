@@ -30,7 +30,7 @@ abstract: Ants disperse oak galls of some cynipid wasp species similarly to how 
 summary: Ants disperse oak galls of some cynipid wasp species similarly to how they disperse seeds with elaiosomes.
 
 tags:
-  - Source Themes
+
 featured: false
 
 # links:
@@ -66,10 +66,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-# {{% callout note %}}
-# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
-
-# Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
-
