@@ -47,9 +47,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'antoine.guiguet@protonmail.com'
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet
+  - icon: mastodon
+    icon_pack: fab
+    link: https://mastodon.social/@antoineguiguet
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.fr/citations?view_op=list_works&hl=fr&hl=fr&user=aLrKe2kAAAAJ
