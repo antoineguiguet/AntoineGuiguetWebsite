@@ -47,7 +47,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'antoine.guiguet@protonmail.com'
-  - icon: x-twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet
   - icon: mastodon
