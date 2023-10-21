@@ -8,32 +8,32 @@ sections:
   - block: hero
     content:
       title: |
-        Antoine Guiguet
+        Antoine Guiguet, PhD
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        Entomologist interested in the evolution and molecular ecology of plant-insect interactions.
+        Exploring the evolution and the molecular ecology of plant-insect interactions.
   
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+#  - block: collection
+#    content:
+#      title: Latest News
+#      subtitle:
+#      text:
+#      count: 5
+#      filters:
+#        author: ''
+#        category: ''
+#        exclude_featured: false
+#        publication_type: ''
+#        tag: ''
+#      offset: 0
+#      order: desc
+#      page_type: post
+#   design:
+#      view: card
+#      columns: '1'
   
 #  - block: markdown
 #    content:
