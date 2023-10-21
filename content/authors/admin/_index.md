@@ -88,5 +88,5 @@ user_groups:
   - Researchers
 ---
 
-I am a postdoctoral researcher at the Naturalis Biodiversity Center. My area of research is the evolution and molecular biology of plant-insect interactions with a focus in plant galls (Cecidology).
+I am a postdoctoral researcher at the [Naturalis Biodiversity Center](https://unsplash.com/photos/jdD8gXaTZsc). My area of research is the evolution and molecular biology of plant-insect interactions with a focus in plant galls (Cecidology).
 
