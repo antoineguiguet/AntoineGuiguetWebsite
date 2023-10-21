@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Outreach activity
 
 # Listing view
 view: compact
