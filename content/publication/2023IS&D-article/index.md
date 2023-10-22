@@ -29,7 +29,7 @@ publication_short: ''
 abstract: Many herbivorous insect species are capable of hijacking plant development to induce novel plant organs called galls. In most groups of galling insects, the insect organs and molecular signals involved in gall induction are poorly understood. We focused on gall wasps (Hymenoptera:Cynipidae), the second largest clade of gall inducers (~1,400 spp.), for which the developmental stages and organs responsible for gall development are unclear. We investigated the female metasomal anatomy of 69 gall-inducing and 29 non-gall-inducing species across each of the major lineages of Cynipoidea, to test relationships between this lifestyle and the relative size of secretory organs. We confirmed that the venom apparatus in gall-inducing species is greatly expanded, although gall-inducing lineages vary in the relative size of these glands. Among these gallers, we measured the largest venom gland apparatus relative to body size ever recorded in insects. Non-galling inquiline species are accompanied by a reduction of this apparatus. Comparative microscopic analysis of venom glands suggests varying venom gland content across the lineages. Some oak gallers also had enlarged accessory glands, a lipid-rich organ whose function remains unclear, and which has not been previously studied in relation to gall formation. Together, the massive expansion of secretory organs specifically in gall-inducing species suggests a role of these secretions in the process of gall formation, and the variance in size of venom glands, accessory glands, and the contents of these glands among gallers, suggests that gall formation across this clade is likely to employ a diversity of molecular strategies.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The comparative analysis of gall wasp venom gland apparatus revealed that the evolution of gall induction is associated with a massive enlargement of this organ, suggesting a role of venom in gall induction.
 
 tags:
 
@@ -40,7 +40,7 @@ featured: false
 #   url: ""
 url_pdf: "https://aguiguet.com/papers/2023IS&D.pdf"
 url_code: ''
-url_dataset: ''
+url_dataset: "https://scholarsphere.psu.edu/resources/aab6ae41-7934-411f-9791-7b08ef39ecb1"
 url_poster: ''
 url_project: ''
 url_slides: ''

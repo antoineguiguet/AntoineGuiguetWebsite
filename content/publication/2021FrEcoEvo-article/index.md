@@ -41,7 +41,7 @@ publication_short: ''
 abstract: Gracillariidae is the most species-rich leaf-mining moth family with over 2,000 described species worldwide. In Europe, there are 263 valid named species recognized, many of which are difficult to identify using morphology only. Here we explore the use of DNA barcodes as a tool for identification and species discovery in European gracillariids. We present a barcode library including 6,791 COI sequences representing 242 of the 263 (92%) resident species. Our results indicate high congruence between morphology and barcodes with 91.3% (221/242) of European species forming monophyletic clades that can be identified accurately using barcodes alone. The remaining 8.7% represent cases of non-monophyly making their identification uncertain using barcodes. Species discrimination based on the Barcode Index Number system (BIN) was successful for 93% of species with 7% of species sharing BINs. We discovered as many as 21 undescribed candidate species, of which six were confirmed from an integrative approach; the other 15 require additional material and study to confirm preliminary evidence. Most of these new candidate species are found in mountainous regions of Mediterranean countries, the South-Eastern Alps and the Balkans, with nine candidate species found only on islands. In addition, 13 species were classified as deep conspecific lineages, comprising a total of 27 BINs with no intraspecific morphological differences found, and no known ecological differentiation. Double-digest restriction-site associated DNA sequencing (ddRAD) analysis showed strong mitonuclear discrepancy in four out of five species studied. This discordance is not explained by Wolbachia-mediated genetic sweeps. Finally, 26 species were classified as “unassessed species splits” containing 71 BINs and some involving geographical isolation or ecological specialization that will require further study to test whether they represent new cryptic species.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The study presents the barcode library of 92% of the European species of Gracillariidae.
 
 tags:
 
@@ -51,8 +51,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: "https://aguiguet.com/papers/2021FrEcoEvo.pdf"
-url_code: ''
-url_dataset: ''
+url_code: "https://zenodo.org/records/4123683"
+url_dataset: "http://www.boldsystems.org/index.php/Public_SearchTerms?query=DS-EUGRACI2"
 url_poster: ''
 url_project: ''
 url_slides: ''

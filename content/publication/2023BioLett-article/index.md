@@ -29,7 +29,7 @@ publication_short: ''
 abstract: The morphology of insect-induced galls contributes to defences of the gall-inducing insect species against its natural enemies. In terms of gall chemistry, the only defensive compounds thus far identified in galls are tannins that accumulate in many galls, preventing damage by herbivores. Intrigued by the fruit-like appearance of the translucent oak gall (TOG; Amphibolips nubilipennis, Cynipidae, Hymenoptera) induced on red oak (Quercus rubra), we hypothesized that its chemical composition may deviate from other galls. We found that the pH of the gall is between 2 and 3, making it among the lowest pH levels found in plant tissues. We examined the organic acid content of TOG and compared it to fruits and other galls using high-performance liquid chromatography and gas chromatography–mass spectrometry. Malic acid, an acid with particularly high abundance in apples, represents 66% of the organic acid detected in TOGs. The concentration of malic acid was two times higher than in other galls and in apples. Gall histology showed that the acid-containing cells were enlarged and vacuolized just like fruits mesocarp cells. Accumulation of organic acid in gall tissues is convergent with fruit morphology and may constitute a new defensive strategy against predators and parasitoids.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: The tissues of the translucent oak gall have a pH between 2 and 3, making it among the lowest pH levels found in plant tissues. We suggest this may be a new defense mechanism against the galler's enemies.
 
 tags:
 
@@ -40,7 +40,7 @@ featured: false
 #   url: ""
 url_pdf: "https://aguiguet.com/papers/2023BioLett.pdf"
 url_code: ''
-url_dataset: ''
+url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.v41ns1s0x"
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -38,7 +38,7 @@ featured: false
 #   url: ""
 url_pdf: "https://aguiguet.com/papers/2022AmNat.pdf"
 url_code: ''
-url_dataset: ''
+url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.9ghx3ffk2"
 url_poster: ''
 url_project: ''
 url_slides: ''
