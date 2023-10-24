@@ -34,6 +34,11 @@ subtitle = ""
   name = "Macrophotography"
   description = ""
 
+  #[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Imaging"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
