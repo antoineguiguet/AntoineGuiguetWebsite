@@ -17,21 +17,27 @@ subtitle = ""
 # Pick from the choices available here: https://fontawesome.com/v4/icons/
 
 [[feature]]
+  icon = "bug"
+  icon_pack = "fas"
+  name = "Field collection"
+  description = ""
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
   description = ""
-  
+
 [[feature]]
-  icon = "chart-line"
+  icon = "camera-retro"
   icon_pack = "fas"
-  name = "Statistics"
-  description = ""  
-  
-[[feature]]
-  icon = "osf"
-  icon_pack = "ai"
-  name = "Open Science"
+  name = "Macrophotography"
+  description = ""
+
+  #[[feature]]
+  icon = "Microscope"
+  icon_pack = "fas"
+  name = "Imaging"
   description = ""
 
 # Uncomment to use emoji icons.
