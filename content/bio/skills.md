@@ -40,6 +40,18 @@ subtitle = ""
   name = "Imaging"
   description = ""
 
+[[feature]]
+  icon = "writing"
+  icon_pack = "custom"
+  name = "Writing"
+  description = ""
+
+[[feature]]
+  icon = "dna"
+  icon_pack = "custom"
+  name = "DNA"
+  description = ""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"
