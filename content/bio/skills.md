@@ -41,15 +41,15 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "writing"
-  icon_pack = "custom"
-  name = "Writing"
+  icon = "bioinformatics"
+  icon_pack = "fas"
+  name = "Bioinformatics"
   description = ""
 
 [[feature]]
-  icon = "dna"
-  icon_pack = "custom"
-  name = "DNA"
+  icon = "file-lines"
+  icon_pack = "fas"
+  name = "Writing"
   description = ""
 
 # Uncomment to use emoji icons.
