@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aguiguet.com/papers/2019SciRep.pdf"
+url_pdf: "https://antoine-guiguet.com/papers/2019SciRep.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

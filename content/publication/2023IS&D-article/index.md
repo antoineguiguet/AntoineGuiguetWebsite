@@ -22,7 +22,6 @@ publishDate: '2017-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-add_badge: true
 
 # Publication name and optional abbreviated publication name.
 publication: '*Insect Systematics and Diversity, 7*(5)'
@@ -40,7 +39,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aguiguet.com/papers/2023IS&D.pdf"
+url_pdf: "https://antoine-guiguet.com/papers/2023IS&D.pdf"
 url_code: ''
 url_dataset: "https://scholarsphere.psu.edu/resources/aab6ae41-7934-411f-9791-7b08ef39ecb1"
 url_poster: ''

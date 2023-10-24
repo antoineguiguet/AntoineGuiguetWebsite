@@ -50,7 +50,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aguiguet.com/papers/2021FrEcoEvo.pdf"
+url_pdf: "https://antoine-guiguet.com/papers/2021FrEcoEvo.pdf"
 url_code: "https://zenodo.org/records/4123683"
 url_dataset: "http://www.boldsystems.org/index.php/Public_SearchTerms?query=DS-EUGRACI2"
 url_poster: ''

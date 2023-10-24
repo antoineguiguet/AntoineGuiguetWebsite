@@ -38,7 +38,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aguiguet.com/papers/2023BioLett.pdf"
+url_pdf: "https://antoine-guiguet.com/papers/2023BioLett.pdf"
 url_code: ''
 url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.v41ns1s0x"
 url_poster: ''

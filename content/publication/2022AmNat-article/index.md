@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://aguiguet.com/papers/2022AmNat.pdf"
+url_pdf: "https://antoine-guiguet.com/papers/2022AmNat.pdf"
 url_code: ''
 url_dataset: "https://datadryad.org/stash/dataset/doi:10.5061/dryad.9ghx3ffk2"
 url_poster: ''
