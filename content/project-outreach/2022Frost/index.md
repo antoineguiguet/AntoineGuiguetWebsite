@@ -2,7 +2,7 @@
 title: "Wasp Galls Inside and Out"
 summary: ""
 tags:
-- Podcast
+- Exhibition
 date: "2020-05-13T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
