@@ -102,6 +102,10 @@ features:
     api_key: ''
     zoom: 15
 
+marketing:
+  analytics:
+    google_analytics: 'G-261R60W30H'
+
 # Extensions
 
 extensions:
