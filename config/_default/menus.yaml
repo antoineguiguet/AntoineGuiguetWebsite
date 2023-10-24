@@ -22,6 +22,3 @@ main:
   - name: Contact
     url: contact
     weight: 60
-  - name: Media
-    url: media
-    weight: 70
