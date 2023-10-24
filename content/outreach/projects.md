@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Media"
+title = "Outreach"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project-media"
+  page_type = "project-outreach"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,16 +26,16 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Press"
-     tag = "Press"
+     name = "Exhibition"
+     tag = "Exhibition"
   
    [[content.filter_button]]
      name = "Video"
      tag = "Video"
   
    [[content.filter_button]]
-     name = "Radio"
-     tag = "Radio"
+     name = "Podcast"
+     tag = "Podcast"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
