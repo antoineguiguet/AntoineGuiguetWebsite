@@ -34,7 +34,7 @@ subtitle = ""
   name = "Macrophotography"
   description = ""
 
-  #[[feature]]
+[[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Imaging"
