@@ -17,7 +17,7 @@ subtitle = ""
 # Pick from the choices available here: https://fontawesome.com/v4/icons/
 
 [[feature]]
-  icon = "bug"
+  icon = "fa-solid fa-bug"
   icon_pack = "fas"
   name = "Field collection"
   description = ""
@@ -34,11 +34,6 @@ subtitle = ""
   name = "Macrophotography"
   description = ""
 
-  #[[feature]]
-  icon = "Microscope"
-  icon_pack = "fas"
-  name = "Imaging"
-  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
