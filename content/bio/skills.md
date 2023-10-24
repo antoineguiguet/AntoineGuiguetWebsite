@@ -17,7 +17,7 @@ subtitle = ""
 # Pick from the choices available here: https://fontawesome.com/v4/icons/
 
 [[feature]]
-  icon = "fa-solid fa-bug"
+  icon = "bug"
   icon_pack = "fas"
   name = "Field collection"
   description = ""
