@@ -1,12 +1,12 @@
 ---
-title: "Panel: TestBlabla"
+title: "In Defense of Plants"
 summary: ""
 tags:
-- Video
+- Podcast
 date: "2020-05-13T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://youtu.be/2ZiQ7OY21fU"
+external_link: "https://www.indefenseofplants.com/podcast/2023/6/4/pxxjmt3g0lv5ksjfj3hhd1sqmu7y6d"
 
 image:
   caption: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Workshop with the SSHRC's Storytellers Finalists: An Opportunity to Learn about and Practice the Art of Presenting. Organized by the CRIR (Centre for Interdisciplinary Research in Rehabilitation of Greater Montreal).
+Interview by the podcast In Defense of Plants
