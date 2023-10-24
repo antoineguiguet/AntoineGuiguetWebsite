@@ -41,7 +41,7 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "bioinformatics"
+  icon = "code"
   icon_pack = "fas"
   name = "Bioinformatics"
   description = ""
