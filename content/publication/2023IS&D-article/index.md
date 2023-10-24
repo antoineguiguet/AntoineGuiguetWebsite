@@ -32,6 +32,8 @@ abstract: Many herbivorous insect species are capable of hijacking plant develop
 summary: The comparative analysis of gall wasp venom gland apparatus revealed that the evolution of gall induction is associated with a massive enlargement of this organ, suggesting a role of venom in gall induction.
 
 tags:
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/isd/ixad022"></div>
 
 featured: false
 
