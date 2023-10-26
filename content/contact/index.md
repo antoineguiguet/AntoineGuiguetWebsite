@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         You can write your message in this form.
-      email: antoine.guiguet@protonmail.com
+      email: mailto:antoine.guiguet@protonmail.com
       address:
         street: Darwinweg 2
         city: Leiden

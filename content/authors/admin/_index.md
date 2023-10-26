@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'antoine.guiguet@protonmail.com'
+    link: mailto:antoine.guiguet@protonmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet
