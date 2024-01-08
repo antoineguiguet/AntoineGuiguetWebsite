@@ -8,5 +8,4 @@ Runner-up of the Biology Letters Early Career Researcher Competition for my arti
 
 <!--more-->
 
-Extreme acidity in a cynipid gall: a potential new defensive strategy against natural enemies.
 <https://royalsocietypublishing.org/rsbl/ecr-prize>
