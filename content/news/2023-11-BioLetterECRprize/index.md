@@ -1,12 +1,12 @@
 ---
-title: Biology Letters ECR
+title: Biology Letters ECR prize
 date: 2023-11-25
 image:
-#  focal_point: 'top'
 ---
 
 Runner-up of the Biology Letters Early Career Researcher Competition for my article on gall acidity.
 
 <!--more-->
 
-text
+Extreme acidity in a cynipid gall: a potential new defensive strategy against natural enemies.
+<https://royalsocietypublishing.org/rsbl/ecr-prize>
