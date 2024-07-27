@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Exposition sur les guêpes biliaires d'Amérique du Nord et leur biologie au Musée entomologique Frost.
+Exposition sur les guêpes à galles d'Amérique du Nord et leur biologie au Musée entomologique Frost.
