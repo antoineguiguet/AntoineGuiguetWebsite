@@ -22,15 +22,15 @@ subtitle = ""
   filter_default = 0
   
    [[content.filter_button]]
-     name = "All"
+     name = "Tous"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Press"
+     name = "Presse"
      tag = "Press"
   
    [[content.filter_button]]
-     name = "Exhibition"
+     name = "Expo"
      tag = "Exhibition"
   
    [[content.filter_button]]

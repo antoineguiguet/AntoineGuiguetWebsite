@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Exhibition about North American gall-wasps and their biology at The Frost Entomological Museum.
+Exposition sur les guêpes biliaires d'Amérique du Nord et leur biologie au Musée entomologique Frost.

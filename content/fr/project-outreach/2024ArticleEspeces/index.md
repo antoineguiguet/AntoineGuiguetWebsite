@@ -1,5 +1,5 @@
 ---
-title: "Article in ESPECES mag"
+title: "Article dans le mag ESPECES"
 summary: ""
 tags:
 - Press
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Outreach article explaining my research on Oak gall wasps.
+Article de vulgarisation expliquant mes recherches sur les guêpes à galles du chêne.
