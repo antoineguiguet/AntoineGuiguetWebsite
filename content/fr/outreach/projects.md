@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Outreach"
+title = "Médiation"
 subtitle = ""
 
 [content]
@@ -24,6 +24,10 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
+  
+   [[content.filter_button]]
+     name = "Press"
+     tag = "Press"
   
    [[content.filter_button]]
      name = "Exhibition"

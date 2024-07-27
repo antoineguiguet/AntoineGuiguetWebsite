@@ -10,7 +10,7 @@ last_name: Guiguet
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher in Entomology
+role: Chercheur en Entomologie
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in the evolution and molecular ecology of plant-insect interactions.
+bio: Je m'intéresse à l'évolution et à l'écologie moléculaire des interactions plantes-insectes.
 
 interests:
-  - Plant-insect interactions
-  - Functional morphology
-  - Cecidology
-  - Evolution
-  - Entomology
+  - Interactions plantes-insectes
+  - Morphologie fonctionnelle
+  - Cécidologie
+  - Évolution
+  - Entomologie
 
 education:
   courses:
-    - course: PhD in Entomology
-      institution: University of Tours & Kyoto Prefectoral University
+    - course: Doctorat en Entomologie
+      institution: Université de Tours & Kyoto Prefectoral University
       year: 2019
-    - course: MSc in Biosciences
+    - course: Master Biosciences
       institution: École Normale Supérieure de Lyon
       year: 2014
-    - course: BSc in Biosciences
+    - course: Licence Biosciences
       institution: École Normale Supérieure de Lyon
       year: 2011
 
