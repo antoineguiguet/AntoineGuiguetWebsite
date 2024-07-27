@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Research
+      title: Recherche
       text: |-
-        Description of my research.
+        Description de mes recherches.
     design:
       columns: '1'
 

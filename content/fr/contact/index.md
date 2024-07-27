@@ -9,13 +9,13 @@ sections:
     content:
       title: Contact
       text: |-
-        You can write your message in this form.
+        Vous pouvez m'écrire via ce formulaire:
       email: mailto:antoine.guiguet@protonmail.com
       address:
         street: Darwinweg 2
         city: Leiden
         postcode: '2333 CR'
-        country: The Netherlands
+        country: Pays-Bas
         country_code: NL
       coordinates:
         latitude: '52.164629'
