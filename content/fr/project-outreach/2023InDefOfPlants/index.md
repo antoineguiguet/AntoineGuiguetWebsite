@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Interview par le podcast In Defense of Plants
+Participation au podcast "In Defense of Plants" (en anglais)
