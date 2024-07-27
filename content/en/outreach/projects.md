@@ -24,7 +24,11 @@ subtitle = ""
    [[content.filter_button]]
      name = "All"
      tag = "*"
-  
+
+   [[content.filter_button]]
+     name = "Press"
+     tag = "Press"
+
    [[content.filter_button]]
      name = "Exhibition"
      tag = "Exhibition"

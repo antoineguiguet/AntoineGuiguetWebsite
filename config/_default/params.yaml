@@ -102,10 +102,7 @@ features:
     api_key: ''
     zoom: 15
 
-highlight: true
-highlight_languages:
-  - r
-  
+
 marketing:
   analytics:
     google_analytics: 'G-9R60BXD5GD'
