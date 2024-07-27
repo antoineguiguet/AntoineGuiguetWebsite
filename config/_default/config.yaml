@@ -70,3 +70,13 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+############################
+## Advanced options below ##
+############################
+
+# Default language to use (if you setup multilingual support)
+defaultContentLanguage: en
+hasCJKLanguage: false
+defaultContentLanguageInSubdir: false
+removePathAccents: true
