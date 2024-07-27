@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Interview by the podcast In Defense of Plants
+Outreach article explaining my recent research on Oak gall wasps.
