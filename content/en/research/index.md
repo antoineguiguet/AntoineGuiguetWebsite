@@ -23,7 +23,7 @@ sections:
           - news
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       # Choose your content listing view - here we use the `showcase` view
       view: Masonry
 
