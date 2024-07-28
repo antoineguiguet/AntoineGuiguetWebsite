@@ -62,7 +62,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "LightOrange"
+   color = "#ecf8b0"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
