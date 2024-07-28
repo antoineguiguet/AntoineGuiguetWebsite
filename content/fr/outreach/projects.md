@@ -62,11 +62,11 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-   color = "#ecf8b0"
+  # color = "#fff2cc"
   
   # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
+   gradient_start = "#fff2cc"
+   gradient_end = "#bf9000"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/media/`.
