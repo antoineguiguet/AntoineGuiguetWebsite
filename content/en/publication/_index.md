@@ -7,6 +7,6 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'wasps.png'
+  image: 'wasps3.png'
 
 ---
