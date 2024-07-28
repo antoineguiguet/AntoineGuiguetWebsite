@@ -10,7 +10,7 @@ sections:
       title: |
         Antoine Guiguet, PhD
       image:
-        filename: wasps.jpg
+        filename: welcome.jpg
       text: |
         <br>
         

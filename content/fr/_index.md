@@ -10,11 +10,11 @@ sections:
       title: |
         Antoine Guiguet, PhD
       image:
-        filename: wasps.jpg
+        filename: welcome.jpg
       text: |
         <br>
         
-        Exploring the evolution and the molecular ecology of plant-insect interactions.
+        Explorer de l'évolution et de l'écologie moléculaire des interactions plantes-insectes.
   
 #  - block: collection
 #    content:
