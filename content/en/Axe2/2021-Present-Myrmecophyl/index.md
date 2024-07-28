@@ -5,7 +5,7 @@ image:
 #  focal_point: 'top'
 ---
 
-Myrmecophily exists in two forms in Oak gall wasps and evolved mustiple times independently.
+Myrmecophily exists in two forms in Oak gall wasps and has evolved multiple times independently.
 
 <!--more-->
 

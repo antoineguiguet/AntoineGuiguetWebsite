@@ -1,11 +1,11 @@
 ---
-title: (2020-2022) Comparative anatomy of Cynipidae venom glands
+title: (2018-2024) Description of gall-inducing Caloptilia
 date: 2023-10-20
 image:
 #  focal_point: 'top'
 ---
 
-Cynipid venom glands are exceptionnally large, our study confirmed that this enlargement was linked with the transition to a gall-inducing lifestyle.
+Description of two nez species of gall-inducing micromoths (Gracillariidae) from New-Caledonia.
 
 <!--more-->
 
