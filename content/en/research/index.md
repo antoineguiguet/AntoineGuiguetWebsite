@@ -13,7 +13,10 @@ sections:
 
     design:
       columns: '1'
-
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+        
   - block: collection
     content:
       title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font>
@@ -60,6 +63,9 @@ sections:
        gradient_start: '#f4cccc'
        gradient_end: '#ffffff'
        gradient_angle: 180
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     content:
@@ -82,6 +88,9 @@ sections:
        gradient_start: '#d9ead3'
        gradient_end: '#ffffff'
        gradient_angle: 180
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     content:
