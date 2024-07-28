@@ -16,7 +16,7 @@ sections:
 
   - block: collection
     content:
-      title: Mechanisms of gall-induction in Hymenoptera
+      title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font>
       subtitle: First axis
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
@@ -32,12 +32,12 @@ sections:
 
   - block: collection
     content:
-      title: Evolution of galling in Hymenoptera
+      title: <font color="#990000">Evolution of galling in Hymenoptera</font>
       subtitle: Second axis
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
         folders:
-          - news
+          - Axe2
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -48,12 +48,12 @@ sections:
 
   - block: collection
     content:
-      title: Systematics and Taxonomy
+      title: <font color="#38761d">Systematics and Taxonomy</font>
       subtitle: Third axis
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
         folders:
-          - news
+          - Axe3
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
