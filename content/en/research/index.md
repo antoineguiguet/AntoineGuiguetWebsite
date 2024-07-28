@@ -18,8 +18,8 @@ sections:
         padding: ['20px', '0', '20px', '0']
 
   - block: collection
-    content: (#collection)
-      title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font>
+    content: 
+      title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font> (#collection)
       subtitle: First axis
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
