@@ -1,6 +1,6 @@
 ---
 title: Janelia Conference on Extended Phenotypes
-date: 2024-06-02
+date: "2024-06-02"
 image:
 #  focal_point: 'top'
 ---
