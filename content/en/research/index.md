@@ -35,7 +35,9 @@ sections:
        gradient_start: '#cfe2f3'
        gradient_end: '#ffffff'
        gradient_angle: 180
-
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
 
   - block: collection
     content:
