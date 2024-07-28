@@ -9,7 +9,25 @@ sections:
     content:
       title: Research
       text: |-
-        Description of my research.The emergence of novel traits is often preceded by a potentiation phase, when all the genetic components necessary for producing the trait are assembled. However, elucidating these potentiating factors is challenging. We have previously shown that an anthocyanin-activating R2R3-MYB, STRIPY, triggers the emergence of a distinct foliar pigmentation pattern in the monkeyflower Mimulus verbenaceus. Here, using forward and reverse genetics approaches, we identify three potentiating factors that pattern STRIPY expression: MvHY5, a master regulator of light signaling that activates STRIPY and is expressed throughout the leaf, and two leaf developmental regulators, MvALOG1 and MvTCP5, that are expressed in opposing gradients along the leaf proximodistal axis and negatively regulate STRIPY. These results provide strong empirical evidence that phenotypic novelties can be potentiated through incorporation into preexisting genetic regulatory networks and highlight the importance of positional information in patterning the novel foliar stripe.
+        Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique
+des interactions plante-insecte. En particulier, j’étudie les processus de manipulation
+de la physiologie et du développement végétal par les insectes, conduisant parfois à la
+formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés
+en trois axes de recherche interdépendants. Le premier axe comprend la recherche des
+mécanismes moléculaires impliqués dans la formation des galles d’insecte. Pour
+cela, j’utilise des approches de transcriptomique comparative que j’applique en tenant
+compte du contexte phylogénétique de mes organismes d’étude afin d’établir des
+comparaisons inter-espèces pertinentes. Le deuxième axe concerne l’étude de
+l’évolution du mode de vie gallicole et ses conséquences adaptatives chez les
+insectes. L’inférence d’arbres phylogénétiques de clades comprenant des espèces
+inductrices de galles me permet d’estimer la fréquence d’apparition de ce mode de vie
+dans les groupes d’étude, ainsi que et d’établir des corrélations avec des traits
+morphologiques ou des traits d’histoire de vie afin de résoudre des questions telles que
+l’identification des organes impliqués dans le mécanisme d’induction ou l’estimation
+des avantages adaptatifs de ce mode de vie. Enfin, le troisième axe de mes travaux
+consiste en la systématique des Gracillariidés (Lepidoptera) et des Cynipidés
+(Hymenoptera). Mes travaux sur l’évolution du mode de vie gallicole dans ces deux
+familles d’insecte m’ont conduit à acquérir une expertise taxonomique sur ces groupes.
     design:
       columns: '1'
 
