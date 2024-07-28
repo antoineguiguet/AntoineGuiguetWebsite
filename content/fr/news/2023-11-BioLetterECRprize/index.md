@@ -4,7 +4,7 @@ date: 2023-11-25
 image:
 ---
 
-Runner-up of the Biology Letters Early Career Researcher Competition for my article on gall acidity.
+Finaliste de la Compétition "Biology Letters Early Career Researcher" pour mon article sur l'acidité des galles.
 
 <!--more-->
 

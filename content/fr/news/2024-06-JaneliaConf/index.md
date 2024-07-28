@@ -5,7 +5,7 @@ image:
 #  focal_point: 'top'
 ---
 
-I am attending the Janelia conference on "Mechanisms of Inter-Organismal Extended Phenotypes".
+Je participe à la conférence Janelia sur les "Mécanismes des phénotypes étendus inter-organismes".
 
 <!--more-->
 
