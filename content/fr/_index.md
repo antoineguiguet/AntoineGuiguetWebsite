@@ -10,7 +10,7 @@ sections:
       title: |
         Antoine Guiguet, PhD
       image:
-        filename: welcome3.jpg
+        filename: welcome3.png
       text: |
         <br>
         
