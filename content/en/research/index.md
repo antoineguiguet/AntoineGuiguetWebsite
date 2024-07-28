@@ -9,14 +9,14 @@ sections:
     content:
       title: Research
       text: |-
-        Le thème principal de mes travaux de recherche est l’**évolution et l’écologie chimique des interactions plante-insecte**. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « **galle** ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. <font color="#6fa8dc">Le **premier axe** comprend la recherche des mécanismes moléculaires impliqués dans la formation des galles d’insecte.</font> <font color="#e06666">Le **deuxième axe** concerne l’étude de l’évolution du mode de vie gallicole et ses conséquences adaptatives chez les insectes.</font> Enfin, <font color="#93c47d">le **troisième axe** de mes travaux consiste en la systématique des Gracillariidés (Lepidoptera) et des Cynipidés (Hymenoptera).</font> [Scroll down to a page section with heading *collection*]
+        Le thème principal de mes travaux de recherche est l’**évolution et l’écologie chimique des interactions plante-insecte**. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « **galle** ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. <font color="#6fa8dc">Le **premier axe** comprend la recherche des mécanismes moléculaires impliqués dans la formation des galles d’insecte.</font> <font color="#e06666">Le **deuxième axe** concerne l’étude de l’évolution du mode de vie gallicole et ses conséquences adaptatives chez les insectes.</font> Enfin, <font color="#93c47d">le **troisième axe** de mes travaux consiste en la systématique des Gracillariidés (Lepidoptera) et des Cynipidés (Hymenoptera).</font> [Scroll down to a page section with heading *collection*](#collection)
 
     design:
       columns: '1'
       spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
-(#collection)
+
   - block: collection
     content: 
       title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font> 
