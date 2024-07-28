@@ -31,9 +31,9 @@ sections:
       flip_alt_rows: true
     # Choose a color such as from https://html-color-codes.info
       background:
-        color: '#cfe2f3'
-     #  gradient_start: '#4bb4e3'
-     #  gradient_end: '#2b94c3'
+      #  color: '#cfe2f3'
+       gradient_start: '#cfe2f3'
+       gradient_end: '#ffffff'
 
 
   - block: collection
@@ -53,7 +53,9 @@ sections:
       flip_alt_rows: true
     # Choose a color such as from https://html-color-codes.info
       background:
-        color: '#f4cccc'
+      #  color: '#f4cccc'
+       gradient_start: '#f4cccc'
+       gradient_end: '#ffffff'
 
   - block: collection
     content:
@@ -72,7 +74,9 @@ sections:
       flip_alt_rows: true
     # Choose a color such as from https://html-color-codes.info
       background:
-       color: '#d9ead3'
+    #  color: '#d9ead3'
+       gradient_start: '#f4cccc'
+       gradient_end: '#ffffff'
 
   - block: markdown
     content:
@@ -83,7 +87,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: wasps.png
           filters:
             brightness: 1
           parallax: false
