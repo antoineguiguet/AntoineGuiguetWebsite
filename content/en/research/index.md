@@ -16,8 +16,8 @@ sections:
 
   - block: collection
     content:
-      title: Premier axe
-      subtitle: Systematics
+      title: Mechanisms of gall-induction in Hymenoptera
+      subtitle: Premier axe
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
         folders:
@@ -32,8 +32,8 @@ sections:
 
   - block: collection
     content:
-      title: Deuxième axe
-      subtitle: Systematics
+      title: Evolution of galling in Hymenoptera
+      subtitle: Deuxième axe
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
         folders:
@@ -48,8 +48,8 @@ sections:
 
   - block: collection
     content:
-      title: Troisième axe
-      subtitle: Systematics
+      title: Systematics and Taxonomy
+      subtitle: Troisième axe
       text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
       filters:
         folders:
