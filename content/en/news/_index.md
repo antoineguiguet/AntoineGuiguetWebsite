@@ -7,5 +7,5 @@ view: compact
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'welcome.jpg'
+  image: 'welcome2.jpg'
 ---
