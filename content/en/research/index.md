@@ -29,6 +29,8 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+    # Choose a color such as from https://html-color-codes.info
+       color: '#cfe2f3'
 
   - block: collection
     content:
@@ -45,6 +47,8 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+    # Choose a color such as from https://html-color-codes.info
+       color: '#f4cccc'
 
   - block: collection
     content:
@@ -61,6 +65,9 @@ sections:
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
+        background:
+    # Choose a color such as from https://html-color-codes.info
+       color: '#d9ead3'
 
   - block: markdown
     content:
