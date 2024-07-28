@@ -34,6 +34,7 @@ sections:
       #  color: '#cfe2f3'
        gradient_start: '#cfe2f3'
        gradient_end: '#ffffff'
+       gradient_angle: 180
 
 
   - block: collection
@@ -56,6 +57,7 @@ sections:
       #  color: '#f4cccc'
        gradient_start: '#f4cccc'
        gradient_end: '#ffffff'
+       gradient_angle: 180
 
   - block: collection
     content:
@@ -75,8 +77,9 @@ sections:
     # Choose a color such as from https://html-color-codes.info
       background:
     #  color: '#d9ead3'
-       gradient_start: '#f4cccc'
+       gradient_start: '#d9ead3'
        gradient_end: '#ffffff'
+       gradient_angle: 180
 
   - block: markdown
     content:
