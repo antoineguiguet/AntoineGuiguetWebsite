@@ -9,10 +9,9 @@ sections:
     content:
       title: Research
       text: |-
-        Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique
-des interactions plante-insecte. En particulier, j’étudie les processus de manipulation
+        Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. En particulier, j’étudie les processus de manipulation
 de la physiologie et du développement végétal par les insectes, conduisant parfois à la
-formation de structures appelées "galle". Mes travaux à ce sujet peuvent être regroupés
+formation de structures appelées galle. Mes travaux à ce sujet peuvent être regroupés
 en trois axes de recherche interdépendants. Le premier axe comprend la recherche des
 mécanismes moléculaires impliqués dans la formation des galles d’insecte. Pour
 cela, j’utilise des approches de transcriptomique comparative que j’applique en tenant
