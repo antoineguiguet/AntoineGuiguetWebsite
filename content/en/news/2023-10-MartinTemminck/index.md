@@ -1,6 +1,7 @@
 ---
 title: Martin Temminck fellowship
-date: 2023-10-20
+date: "2023-02-07T13:00:00"
+lastmod: "2023-02-07T13:00:00"
 image:
 #  focal_point: 'top'
 ---
