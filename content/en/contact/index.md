@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         You can write your message in this form.
-      email: mailto:antoine.guiguet@protonmail.com
+      email: mailto:antoine.guiguet[at]protonmail.com
       address:
         street: Darwinweg 2
         city: Leiden
@@ -33,7 +33,7 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
     design:
-      columns: '1'
+      columns: '2'
 
   - block: markdown
     content:
@@ -41,7 +41,7 @@ sections:
       subtitle: ''
       text:
     design:
-      columns: '1'
+      columns: '2'
       background:
         image: 
           filename: contact.jpg
