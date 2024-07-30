@@ -9,7 +9,7 @@ sections:
     content:
       title: Research
       text: |-
-        Le thème principal de mes travaux de recherche est l’**évolution et l’écologie chimique des interactions plante-insecte**. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « **galle** ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. [<font color="#6fa8dc">Le **premier axe** comprend la recherche des mécanismes moléculaires impliqués dans la formation des galles d’insecte.</font>](#axis-1) [<font color="#e06666">Le **deuxième axe** concerne l’étude de l’évolution du mode de vie gallicole et ses conséquences adaptatives chez les insectes.</font>](#axis-2) Enfin, [<font color="#93c47d">le **troisième axe** de mes travaux consiste en la systématique des Gracillariidés (Lepidoptera) et des Cynipidés (Hymenoptera).</font>](#axis-3)
+        The main theme of my research is the **evolution and chemical ecology of plant-insect interactions**. I study the processes by which insects manipulate plant physiology and development, sometimes leading to the formation of structures known as  **galls**. My work on this subject can be grouped into three interdependent lines of research. [<font color="#6fa8dc">The **first axis** involves research into the molecular mechanisms involved in insect gall formation.</font>](#axis-1) [<font color="#e06666">The **second axis** involves studying the evolution of the gall life style and its adaptive consequences in insects.</font>](#axis-2) Finally, [<font color="#93c47d">the **third axis** of my work involves the systematics of the Gracillariidae (Lepidoptera) and Cynipidae (Hymenoptera).</font>](#axis-3)
 
     design:
       columns: '1'
@@ -22,7 +22,7 @@ sections:
     content: 
       title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font> 
       subtitle: First axis
-      text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
       filters:
         folders:
           - Axe1
@@ -48,7 +48,7 @@ sections:
     content:
       title: <font color="#990000">Evolution of galling in Hymenoptera</font>
       subtitle: Second axis
-      text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       filters:
         folders:
           - Axe2
@@ -74,7 +74,7 @@ sections:
     content:
       title: <font color="#38761d">Systematics and Taxonomy</font>
       subtitle: Third axis
-      text: Le thème principal de mes travaux de recherche est l’évolution et l’écologie chimique des interactions plante-insecte. J’étudie les processus de manipulation de la physiologie et du développement végétal par les insectes, conduisant parfois à la formation de structures appelées « galle ». Mes travaux à ce sujet peuvent être regroupés en trois axes de recherche interdépendants. Le premier axe comprend la recherche des mécanismes 
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
       filters:
         folders:
           - Axe3
