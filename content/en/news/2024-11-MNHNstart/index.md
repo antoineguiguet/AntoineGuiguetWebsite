@@ -1,6 +1,6 @@
 ---
 title: "Joining the Muséum National d'Histoire Naturelle"
-date: "2023-11-11T00:00:00Z"
+date: "2024-11-11T00:00:00Z"
 lastmod: "2017-10-11T00:00:00Z"
 image:
 #  focal_point: 'top'
