@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:antoine.guiguet@protonmail.com
+    link: mailto:antoine.guiguet@mnhn.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet

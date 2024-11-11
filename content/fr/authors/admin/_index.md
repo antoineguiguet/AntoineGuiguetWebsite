@@ -10,12 +10,12 @@ last_name: Guiguet
 superuser: true
 
 # Role/position
-role: Chercheur en Entomologie
+role: Maître de conférences et Curateur des Hyménoptères
 
 # Organizations/Affiliations
 organizations:
-  - name: Naturalis Biodiversity Center
-    url: ''
+  - name: Muséum National d'Histoire Naturelle
+    url: 'https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Je m'intéresse à l'évolution et à l'écologie moléculaire des interactions plantes-insectes.
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:antoine.guiguet@protonmail.com
+    link: mailto:antoine.guiguet@mnhn.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet
@@ -88,5 +88,6 @@ user_groups:
   - Researchers
 ---
 
-Je suis chercheur postdoctoral au [Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/evolutionary-ecology). Mon domaine de recherche est l'évolution et la biologie moléculaire des interactions plantes-insectes avec un accent particulier sur les galles végétales (Cécidologie).
+Je suis chercheur et conservateur des Hyménoptères au [Muséum national d'Histoire naturelle à Paris](https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581). Mes recherches visent à comprendre la diversité et l'évolution des insectes gallicoles, avec un intérêt particulier pour les mécanismes moléculaires à l'origine de l'induction des galles et pour la valeur adaptative de ce mode de vie unique. Je me spécialise dans la systématique et l'histoire évolutive des Cynipidae (guêpes à galles), en cherchant à découvrir comment ces insectes manipulent la physiologie et le développement des plantes pour créer des structures galligènes complexes. À travers mon travail, je contribue à documenter et comprendre les interactions subtiles entre les insectes et leurs plantes hôtes.
+
 
