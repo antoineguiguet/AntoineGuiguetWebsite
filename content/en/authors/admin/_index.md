@@ -88,5 +88,6 @@ user_groups:
   - Researchers
 ---
 
-I am a postdoctoral researcher at the [Naturalis Biodiversity Center](https://www.naturalis.nl/en/science/evolutionary-ecology). My area of research is the evolution and molecular biology of plant-insect interactions with a focus in plant galls (Cecidology).
+I am a researcher and curator for Hymenoptera at the [Muséum national d'Histoire Naturelle in Paris](https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581). My research focuses on understanding the diversity and evolution of gall-inducing insects, with a particular interest in the molecular mechanisms underlying gall induction and the adaptive significance of this unique lifestyle. I specialize in the systematics and evolutionary history of Cynipidae (gall wasps), aiming to uncover how these insects manipulate plant physiology and development.
+
 
