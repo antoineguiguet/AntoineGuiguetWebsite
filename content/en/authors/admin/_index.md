@@ -10,12 +10,12 @@ last_name: Guiguet
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher in Entomology
+role: Researcher and Curator for Hymenoptera
 
 # Organizations/Affiliations
 organizations:
-  - name: Naturalis Biodiversity Center
-    url: ''
+  - name: Muséum National d'Histoire Naturelle
+    url: 'https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581'
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in the evolution and molecular ecology of plant-insect interactions.
