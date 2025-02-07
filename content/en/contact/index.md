@@ -10,16 +10,16 @@ sections:
       title: Contact
       text: |-
         You can write your message in this form.
-      email: mailto:antoine.guiguet[at]protonmail.com
+      email: mailto:antoine.guiguet[at]mnhn.fr
       address:
-        street: Darwinweg 2
-        city: Leiden
-        postcode: '2333 CR'
-        country: The Netherlands
-        country_code: NL
+        street: 45 rue Buffon
+        city: Paris
+        postcode: '75005'
+        country: France
+        country_code: FR
       coordinates:
-        latitude: '52.164629'
-        longitude: '4.472110'
+        latitude: '48.841824'
+        longitude: '2.359262'
     
       # Automatically link email and phone or display as text?
       autolink: true
