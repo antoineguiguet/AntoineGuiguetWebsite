@@ -1,7 +1,7 @@
 ---
 title: "Je rejoins le Muséum national d'Histoire naturelle"
-date: "2024-11-11T00:00:00Z"
-lastmod: "2017-10-11T00:00:00Z"
+date: 2024-11-11
+
 image:
 #  focal_point: 'top'
 ---

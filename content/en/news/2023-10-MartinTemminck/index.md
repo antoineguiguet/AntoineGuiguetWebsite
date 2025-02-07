@@ -1,7 +1,7 @@
 ---
 title: "Martin Temminck fellowship"
-date: "2023-11-11T00:00:00Z"
-lastmod: "2017-10-11T00:00:00Z"
+date: 2023-11-11
+
 image:
 #  focal_point: 'top'
 ---

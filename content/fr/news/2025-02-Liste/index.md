@@ -1,7 +1,6 @@
 ---
 title: "Création d’une liste de diffusion sur les galles"
-date: "2025-02-03T00:00:00Z"
-lastmod: "2017-10-11T00:00:00Z"
+date: 2025-02-03
 image:
 #  focal_point: 'top'
 ---
