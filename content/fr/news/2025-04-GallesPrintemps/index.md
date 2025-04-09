@@ -1,5 +1,5 @@
 ---
-title: "Creation of a mailing list on galls"
+title: "Projet participatif de collecte de galles"
 date: 2025-04-08
 image:
 #  focal_point: 'top'
@@ -36,11 +36,12 @@ Espèce de chêne hôte
 Espèce de Cynipidé 
 Code d’observation iNaturalist, INPN Espèce ou autre 
 Envoyer les spécimens à l’adresse suivante : 
+
      Antoine Guiguet 
      Muséum National d'Histoire Naturelle 
      UMR ISYEB 7205 - Équipe DIVA 
-     45 rue Buffon, 75005 Paris 
+     45 rue Buffon, 75005 Paris
 
-[En cliquant sur ce lien, vous pourrez télécharger une liste des espèces présentes en France ainsi qu’une clé d’identification pour vous aider](https://antoine-guiguet.com/papers/2022AmNat.pdf). Nous recherchons toutes les espèces, à l’exception de Biorhiza pallida et Neuroterus quercusbaccarum, trop communes. Les galles sur chêne chevelu (Quercus cerris) nous intéressent tout particulièrement. Pour toute question, n’hésitez pas à nous solliciter depuis cette liste de diffusion. 
+[En cliquant sur ce lien, vous pourrez télécharger une liste des espèces présentes en France ainsi qu’une clé d’identification pour vous aider](https://antoine-guiguet.com/papers/GuideGallesPrintemps.pdf). Nous recherchons toutes les espèces, à l’exception de Biorhiza pallida et Neuroterus quercusbaccarum, trop communes. Les galles sur chêne chevelu (Quercus cerris) nous intéressent tout particulièrement. Pour toute question, n’hésitez pas à nous solliciter depuis cette liste de diffusion. 
 
 Merci à toutes et tous pour votre contribution à cette étude. Nous avons hâte de découvrir vos observations ! 

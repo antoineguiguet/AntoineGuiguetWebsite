@@ -1,46 +1,44 @@
 ---
-title: "Creation of a mailing list on galls"
+title: "Citizen science project on oak galls"
 date: 2025-04-08
 image:
 #  focal_point: 'top'
 ---
 
-Campagne 2025 d'observation des galles de générations sexuée de Cynipidés du chêne.
+2025 observation campaign of sexual generations of oak cynipids.
 
 <!--more-->
 
-**Observer et collecter les galles de chêne de printemps** 
+**Observing and Collecting Spring Oak Galls**
 
-Avec le retour des beaux jours, les premières galles de chêne commencent à apparaître. Nous vous invitons à participer à une campagne d'observation et de collecte des galles de chêne printemps, en particulier celles des espèces les moins communes. Vos observations et vos collectes permettront d’enrichir nos connaissances sur ces fascinants organismes. 
+With the return of warmer weather, the first oak galls are beginning to appear. We invite you to participate in a campaign to observe and collect spring oak galls, particularly those of the less common species. Your observations and collections will enrich our knowledge of these fascinating organisms.
 
-En raison de leur cycle de vie complexe, alternant une génération sexuée et une génération parthénogénétique, les Cynipidés sont souvent mieux connus par l’une de ces deux phases seulement. Pour de nombreuses espèces, c’est la génération sexuée qui reste la plus méconnue et pour cause : leurs galles printanières, plus discrètes et éphémères, sont rarement observées et collectées. 
+Due to their complex life cycle, alternating between a sexual and a parthenogenetic generation, cynipids are often best understood through only one of these two phases. For many species, it is the sexual generation that remains the least understood, and for good reason: their spring galls, more discreet and ephemeral, are rarely observed and collected.
 
-Afin de mieux comprendre ces cycles de vie et d’améliorer notre connaissance des Cynipidés du chêne, nous lançons une campagne d’observation et de collecte des galles printanières. Les spécimens viendront renforcer les collections d’hyménoptères du Muséum National d’Histoire Naturelle et seront pour certains barcodés. 
+To better understand these life cycles and improve our knowledge of oak cynipids, we are launching a campaign to observe and collect spring galls. The specimens will strengthen the Hymenoptera collections of the National Museum of Natural History and some will be barcoded.
 
-**Comment participer ?**
+**How ​​to participate?**
 
-*Observer et documenter* : Lorsque vous trouvez une galle sur un chêne, prenez des photos détaillées et notez l’espèce de chêne hôte. 
+*Observe and document*: When you find a gall on an oak, take detailed photos and note the host oak species.
 
-*Partager vos observations* : Postez-les sur iNaturalist en annotant l'observation comme galle (dans l’onglet Signe de présence) afin qu’elle apparaisse dans le projet [Observatoire francophone des Galles](https://www.inaturalist.org/projects/observatoire-francophone-des-galles). Vous pouvez aussi les signaler sur INPN Espèces. Une quête spécifique dédiée aux galles de chêne de printemps sera bientôt lancée sur cette plateforme, nous vous tiendrons informés. Attention à ne pas générer de doublon en postant la même observation sur les deux plateformes. 
+*Share your observations*: Post them on iNaturalist, annotating the observation as a gall (in the Signs of Presence tab) so that it appears in the [Observatoire francophone des Galles](https://www.inaturalist.org/projects/observatoire-francophone-des-galles) project. You can also report them on INPN Espèces. A specific quest dedicated to spring oak galls will soon be launched on this platform; we will keep you informed. Be careful not to generate duplicate entries by posting the same observation on both platforms.
 
-*Collecter des galles* : Pour les espèces les moins communes, nous vous invitons à nous envoyer des spécimens. Merci de ne pas collecter en espace naturel protégé sans autorisation. 
+*Collect galls*: For less common species, we invite you to send us specimens. Please do not collect in protected natural areas without permission.
 
-**Instructions pour la collecte** 
+**Collection Instructions**
 
-Conserver les galles dans des sacs de congélation type ziplock, percés de trous d’aiguille pour éviter un excès de condensation. 
+Store galls in ziplock freezer bags, pierced with needle holes to prevent excess condensation. Attach a label with the following information:
+Name of collector
+Date and location of collection
+Host oak species
+Cynipidae species
+Observation code (iNaturalist, INPN Species, or other)
+Send specimens to the following address:
 
-Joindre une étiquette avec les informations suivantes : 
-Nom du collecteur 
-Date et lieu de collecte 
-Espèce de chêne hôte 
-Espèce de Cynipidé 
-Code d’observation iNaturalist, INPN Espèce ou autre 
-Envoyer les spécimens à l’adresse suivante : 
-     Antoine Guiguet 
-     Muséum National d'Histoire Naturelle 
-     UMR ISYEB 7205 - Équipe DIVA 
-     45 rue Buffon, 75005 Paris 
+Antoine Guiguet
+National Museum of Natural History
+UMR ISYEB 7205 - DIVA Team
+45 rue Buffon, 75005 Paris
 
-[En cliquant sur ce lien, vous pourrez télécharger une liste des espèces présentes en France ainsi qu’une clé d’identification pour vous aider](https://antoine-guiguet.com/papers/2022AmNat.pdf). Nous recherchons toutes les espèces, à l’exception de Biorhiza pallida et Neuroterus quercusbaccarum, trop communes. Les galles sur chêne chevelu (Quercus cerris) nous intéressent tout particulièrement. Pour toute question, n’hésitez pas à nous solliciter depuis cette liste de diffusion. 
+[By clicking on this link, you can download a list of species present in France as well as an identification key to help you](https://antoine-guiguet.com/papers/GuideGallesPrintemps.pdf). We are looking for all species, with the exception of *Biorhiza pallida* and *Neuroterus quercusbaccarum*, which are too common. Galls on Turkey oak (*Quercus cerris*) are of particular interest to us. If you have any questions, please feel free to contact us via this mailing list.
 
-Merci à toutes et tous pour votre contribution à cette étude. Nous avons hâte de découvrir vos observations ! 
