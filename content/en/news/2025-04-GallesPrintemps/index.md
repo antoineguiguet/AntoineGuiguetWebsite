@@ -1,6 +1,6 @@
 ---
 title: "Creation of a mailing list on galls"
-date: 2025-02-03
+date: 2025-04-08
 image:
 #  focal_point: 'top'
 ---
