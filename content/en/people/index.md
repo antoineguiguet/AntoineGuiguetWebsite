@@ -13,6 +13,7 @@ sections:
       user_groups:
           - Grad Students
           - Alumni
+          - admin
       sort_by: Params.last_name
       sort_ascending: true
     design:
