@@ -10,7 +10,7 @@ last_name: Guiguet
 superuser: true
 
 # Role/position
-role: Researcher and Curator for Hymenoptera
+role: Master Student
 
 # Organizations/Affiliations
 organizations:
