@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Antoine Guiguet
+title: XXXXX Guiguet
 
 # Full Name (for SEO)
 first_name: Antoine

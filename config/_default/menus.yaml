@@ -7,18 +7,21 @@ main:
   - name: People
     url: bio
     weight: 10
+  - name: People2
+    url: bio2
+    weight: 20
   - name: Research
     url: research
-    weight: 20
+    weight: 30
   - name: News
     url: news
-    weight: 30
+    weight: 40
   - name: Publications
     url: publication
-    weight: 40
+    weight: 50
   - name: Outreach
     url: outreach
-    weight: 50
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
