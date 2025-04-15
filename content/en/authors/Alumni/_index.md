@@ -4,7 +4,7 @@ title: XXXXX Guiguet
 
 # Full Name (for SEO)
 first_name: Antoine
-last_name: Guiguo
+last_name: Guigui
 
 # Is this the primary user of the site?
 superuser: false
