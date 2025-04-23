@@ -22,7 +22,7 @@ sections:
     content: 
       title: <font color="#0b5394">Mécanismes de l'induction des galles d'Hyménoptères</font> 
       subtitle: Axe 1
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+      text:  
       filters:
         folders:
           - Axe1
@@ -48,7 +48,7 @@ sections:
     content:
       title: <font color="#990000">Evolution du mode de vie gallicole chez les Hymenoptères</font>
       subtitle: Axe 2
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+      text: 
       filters:
         folders:
           - Axe2
@@ -74,7 +74,7 @@ sections:
     content:
       title: <font color="#38761d">Systematique et Taxonomie</font>
       subtitle: Axe 3
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+      text: 
       filters:
         folders:
           - Axe3
