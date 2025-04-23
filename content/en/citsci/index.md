@@ -34,8 +34,6 @@ sections:
         - le partage d’opportunités (appels à projets, offres de stage ou de collaboration), 
         - et plus largement, la création d’un réseau dynamique autour de l’étude des galles.
 
-#text:  
-
       filters:
         folders:
           - CitSci1
@@ -61,7 +59,25 @@ sections:
     content:
       title: <font color="#74ab01">Projets iNaturalist</font>
       subtitle: 
-      text: Launch of the project "Observatoire francophone des Galles" on iNaturalist.
+      text: |-
+        Ce projet a pour but de rassembler les observations de galles faites par les naturalistes francophones, sans restriction géographique. 
+
+        **Comment participer ?**
+
+        Pour rejoindre le projet, il suffit de : 
+        1.  Avoir un compte sur iNaturalist. 
+        2.  Devenir membre de l’Observatoire francophone des Galles. 
+        3.  Annoter ses observations de galles : dans la barre de droite, sous Annotations, sélectionner "Galle" dans l’onglet "Signe de présence". 
+        
+        Une fois membre du projet, toutes vos observations de galles correctement annotées seront automatiquement intégrées au projet. 
+        
+        **Pourquoi un nouveau projet iNaturalist ?** 
+        
+        Ce projet est complémentaire des initiatives existantes comme Galles de France ou European Plant Gall Faunistics, qui sont limitées à certaines zones géographiques. Ici, toutes les observations de galles des membres effectuées partout dans le monde seront accessibles en un seul endroit, offrant une vue d’ensemble plus large et facilitant les échanges. 
+        
+        **Un espace collaboratif** 
+
+        La rubrique "Journal du projet" nous permettra en tant qu’administrateurs du projet de partager des objectifs d’observation et de mettre en avant des observations remarquables. Ce projet peut ainsi devenir une sorte de réseau social du groupe Galla Gallica. Rendez-vous sur iNaturalist pour partager vos observations, si cela vous intéresse. 
 
       filters:
         folders:
