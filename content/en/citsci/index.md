@@ -81,7 +81,7 @@ sections:
       text: Les quêtes INPN Espèces permettent de ...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
       filters:
         folders:
-          - Axe3
+          - CitSci3
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
@@ -107,7 +107,7 @@ sections:
       text: Les quêtes INPN Espèces permettent de ...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
       filters:
         folders:
-          - Axe3
+          - CitSci4
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
