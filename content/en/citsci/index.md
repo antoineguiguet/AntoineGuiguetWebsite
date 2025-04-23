@@ -11,7 +11,7 @@ sections:
       text: |-
         Les galles sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
 
-        Parmi ces initiatives, [<font color="#550000">la liste de diffusion **Galla Gallica** permet aux naturalistes et chercheurs francophones d’échanger observations, identifications et actualités.</font>](#liste) [<font color="#74ab01"> Sur **iNaturalist**, j’ai lancé un projet dédié aux galles, auquel chacun peut contribuer en partageant ses observations, et je participe également à d'autres projets collaboratifs centrés sur les cécidies.</font>](#iNaturalist) [<font color="#93c47d">Sur **INPN Espèces**, j’ai conçu plusieurs quêtes iNaturalist pour guider les naturalistes dans la recherche de galles spécifiques.</font>](#INPN) [<font color="#93c47d">Pour accompagner ces démarches, j'ai rédigé des **guides de terrain illustrés** facilitant l’identification sur le terrain, et je propose des **recommandations pour l’élevage** des insectes cécidogènes en conditions contrôlées.</font>](#guide)
+        Parmi ces initiatives, [<font color="#550000">la liste de diffusion **Galla Gallica** permet aux naturalistes et chercheurs francophones d’échanger observations, identifications et actualités.</font>](#liste) [<font color="#74ab01"> Sur **iNaturalist**, j’ai lancé un projet dédié aux galles, auquel chacun peut contribuer en partageant ses observations, et je participe également à d'autres projets collaboratifs centrés sur les cécidies.</font>](#iNaturalist) [<font color="#3d8a8b">Sur **INPN Espèces**, j’ai conçu plusieurs quêtes iNaturalist pour guider les naturalistes dans la recherche de galles spécifiques.</font>](#INPN) [<font color="#93c47d">Pour accompagner ces démarches, j'ai rédigé des **guides de terrain illustrés** facilitant l’identification sur le terrain, et je propose des **recommandations pour l’élevage** des insectes cécidogènes en conditions contrôlées.</font>](#guide)
 
     design:
       columns: '1'
@@ -76,7 +76,7 @@ sections:
   - block: collection
     id: INPN
     content:
-      title: <font color="#38761d">Quêtes INPN Espèces</font>
+      title: <font color="#3d8a8b">Quêtes INPN Espèces</font>
       subtitle: 
       text: Les quêtes INPN Espèces permettent de ...Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
       filters:
@@ -92,7 +92,7 @@ sections:
     # Choose a color such as from https://html-color-codes.info
       background:
     #  color: '#d9ead3'
-       gradient_start: '#d9ead3'
+       gradient_start: '#b4d2d2'
        gradient_end: '#ffffff'
        gradient_angle: 180
       spacing:
