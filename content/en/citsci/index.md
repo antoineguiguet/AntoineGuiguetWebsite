@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Explorer les galles ensemble : science participative et cécidologie naturaliste
+      title: Explorer les galles ensemble science participative et cécidologie naturaliste
       text: |-
         Les galles — ces étonnantes structures en forme de boules, de cornes ou de rosettes que l’on trouve sur les feuilles, les tiges ou les racines des plantes — sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie naturaliste et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
 
