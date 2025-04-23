@@ -25,8 +25,6 @@ sections:
       title: <font color="#550000">Liste de diffusion Galla Gallica</font> 
       subtitle: 
       text: |-
-        Les galles sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
-
         Cette liste de diffusion a pour objectif de mettre en relation les chercheurs et naturalistes francophones s’intéressant aux galles de plantes, ou cécidies. Elle vise à faciliter les échanges et la collaboration en permettant 
         - la diffusion de demandes d’informations scientifiques ou techniques,  
         -  le partage de publications récentes et de ressources bibliographiques,  
