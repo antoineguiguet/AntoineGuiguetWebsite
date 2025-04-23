@@ -27,9 +27,16 @@ sections:
       text: |-
         Les galles sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
 
-        Parmi ces initiatives, [<font color="#550000">la liste de diffusion **Galla Gallica** permet aux naturalistes et chercheurs francophones d’échanger observations, identifications et actualités.</font>](#liste) [<font color="#74ab01"> Sur **iNaturalist**, j’ai lancé un projet dédié aux galles, auquel chacun peut contribuer en partageant ses observations, et je participe également à d'autres projets collaboratifs centrés sur les cécidies.</font>](#iNaturalist) [<font color="#3d8a8b">Sur **INPN Espèces**, j’ai conçu plusieurs quêtes iNaturalist pour guider les naturalistes dans la recherche de galles spécifiques.</font>](#INPN) [<font color="#784421">Pour accompagner ces démarches, j'ai rédigé des **guides de terrain illustrés** facilitant l’identification sur le terrain, et je propose des **recommandations pour l’élevage** des insectes cécidogènes en conditions contrôlées.</font>](#guide)
+        Cette liste de diffusion a pour objectif de mettre en relation les chercheurs et naturalistes francophones s’intéressant aux galles de plantes, ou cécidies. Elle vise à faciliter les échanges et la collaboration en permettant 
+        - la diffusion de demandes d’informations scientifiques ou techniques,  
+        -  le partage de publications récentes et de ressources bibliographiques,  
+        -  les demandes d’envoi de spécimens,  
+        - l’organisation de sorties de terrain et d’autres événements communs,  
+        - le signalement et la discussion d’observations de terrain intéressantes, 
+        - le partage d’opportunités (appels à projets, offres de stage ou de collaboration), 
+        - et plus largement, la création d’un réseau dynamique autour de l’étude des galles.
 
-#text: Cette liste de diffusion a pour objectif de mettre en relation les chercheurs et naturalistes francophones s’intéressant aux galles de plantes, ou cécidies. Elle vise à faciliter les échanges et la collaboration en permettant -  la diffusion de demandes d’informations scientifiques ou techniques,  -  le partage de publications récentes et de ressources bibliographiques,  -  les demandes d’envoi de spécimens,  - l’organisation de sorties de terrain et d’autres événements communs,  - le signalement et la discussion d’observations de terrain intéressantes, - le partage d’opportunités (appels à projets, offres de stage ou de collaboration), - et plus largement, la création d’un réseau dynamique autour de l’étude des galles. 
+#text:  
 
       filters:
         folders:
@@ -67,7 +74,7 @@ sections:
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
     # Choose a color such as from https://html-color-codes.info
       background:
       #  color: '#f4cccc'
@@ -93,7 +100,7 @@ sections:
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
     # Choose a color such as from https://html-color-codes.info
       background:
     #  color: '#d9ead3'
@@ -119,7 +126,7 @@ sections:
       # Choose your content listing view - here we use the `showcase` view
       view: showcase
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      flip_alt_rows: false
     # Choose a color such as from https://html-color-codes.info
       background:
     #  color: '#d9ead3'
