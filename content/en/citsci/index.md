@@ -22,9 +22,10 @@ sections:
   - block: collection
     id: axis-1
     content: 
-      title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font> 
-      subtitle: First axis
-      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+      title: <font color="#0b5394">Liste de diffusion Galla Gallica</font> 
+      subtitle: 
+      text: Cette liste de diffusion a pour objectif de mettre en relation les chercheurs et naturalistes francophones s’intéressant aux galles de plantes, ou cécidies. Elle vise à faciliter les échanges et la collaboration en permettant -  la diffusion de demandes d’informations scientifiques ou techniques, -  le partage de publications récentes et de ressources bibliographiques, -  les demandes d’envoi de spécimens, - l’organisation de sorties de terrain et d’autres événements communs, - le signalement et la discussion d’observations de terrain intéressantes, - le partage d’opportunités (appels à projets, offres de stage ou de collaboration), - et plus largement, la création d’un réseau dynamique autour de l’étude des galles. [Lien vers pour vous inscrire à la liste.](http://listes.mnhn.fr/wws/info/gallagallica)
+
       filters:
         folders:
           - Axe1
