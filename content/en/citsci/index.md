@@ -60,6 +60,8 @@ sections:
       title: <font color="#74ab01">Projets iNaturalist</font>
       subtitle: 
       text: |-
+        ## L'Observatoire francophone des Galles
+
         Ce projet a pour but de rassembler les observations de galles faites par les naturalistes francophones, sans restriction géographique. 
 
         **Comment participer ?**
