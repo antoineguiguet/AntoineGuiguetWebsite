@@ -15,5 +15,5 @@ user_groups = ["Principal Investigators",
                "Grad Students",
                "Administration",
                "Visitors",
-               "Alumni","admin"]
+               "Alumni"]
 +++
