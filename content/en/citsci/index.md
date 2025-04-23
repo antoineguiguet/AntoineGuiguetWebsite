@@ -30,8 +30,7 @@ sections:
       -  les demandes d’envoi de spécimens, 
       - l’organisation de sorties de terrain et d’autres événements communs, - le signalement et la discussion d’observations de terrain intéressantes, 
       - le partage d’opportunités (appels à projets, offres de stage ou de collaboration), 
-      - et plus largement, la création d’un réseau dynamique autour de l’étude des galles. 
-      [Lien vers pour vous inscrire à la liste.](http://listes.mnhn.fr/wws/info/gallagallica)
+      - et plus largement, la création d’un réseau dynamique autour de l’étude des galles. [Lien vers pour vous inscrire à la liste.](http://listes.mnhn.fr/wws/info/gallagallica)
 
       filters:
         folders:
