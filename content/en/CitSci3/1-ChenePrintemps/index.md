@@ -1,5 +1,5 @@
 ---
-title: Galles de printemps du Chêne
+title: Quête *Galles de printemps du Chêne*
 date: 2023-10-20
 image: 
 #  focal_point: 'top'
