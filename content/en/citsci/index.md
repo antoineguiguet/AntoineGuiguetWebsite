@@ -135,7 +135,7 @@ sections:
     content:
       title: <font color="#784421">Ressources pour l'étude des galles</font>
       subtitle: 
-      text: Guides 
+      text:  
       filters:
         folders:
           - CitSci4
