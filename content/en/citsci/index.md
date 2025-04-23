@@ -7,9 +7,11 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Citizen Science
+      title: Explorer les galles ensemble : science participative et cécidologie naturaliste
       text: |-
-        Text introducing the different initiatives. Galla Gallica, projets iNaturalist Observatoire francophone étude des galles, Quête INPN Galles printanières du chêne. The main theme of my research is the **evolution and chemical ecology of plant-insect interactions**. I study the processes by which insects manipulate plant physiology and development, sometimes leading to the formation of structures known as  **galls**. My work on this subject can be grouped into three interdependent lines of research. [<font color="#6fa8dc">The **first axis** involves research into the molecular mechanisms involved in insect gall formation.</font>](#axis-1) [<font color="#e06666">The **second axis** involves studying the evolution of the gall life style and its adaptive consequences in insects.</font>](#axis-2) Finally, [<font color="#93c47d">the **third axis** of my work involves the systematics of the Gracillariidae (Lepidoptera) and Cynipidae (Hymenoptera).</font>](#axis-3)
+        Les galles — ces étonnantes structures en forme de boules, de cornes ou de rosettes que l’on trouve sur les feuilles, les tiges ou les racines des plantes — sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie naturaliste et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
+
+        Parmi ces initiatives, [<font color="#6fa8dc">la liste de diffusion **Galla Gallica** permet aux passionné·es de galles d’échanger conseils, identifications et actualités.</font>](#axis-1) [<font color="#6fa8dc"> Sur **iNaturalist**, j’ai lancé un projet dédié aux galles, auquel chacun peut contribuer en partageant ses observations, et je participe également à d'autres projets collaboratifs centrés sur les cécidies.</font>](#axis-1) [<font color="#93c47d">Sur **INPN Espèces**, j’ai conçu plusieurs quêtes iNaturalist pour guider les naturalistes dans la recherche de galles spécifiques.</font>](#axis-2) [<font color="#93c47d">Pour accompagner ces démarches, je rédige des **guides de terrain illustrés** facilitant l’identification sur le terrain, et je propose des **recommandations pour l’élevage** des insectes cécidogènes en conditions contrôlées.</font>](#axis-3)
 
     design:
       columns: '1'

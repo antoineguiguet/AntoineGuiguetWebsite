@@ -17,14 +17,11 @@ main:
     url: publication
     weight: 40
   - name: Citizen Science
-    url: CitSci
+    url: citsci
     weight: 50
   - name: Outreach
     url: outreach
     weight: 60
-  - name: Galery
-    url: prez
-    weight: 70
   - name: Contact
     url: contact
-    weight: 80
+    weight: 70
