@@ -17,6 +17,3 @@ user_groups = ["Principal Investigators",
                "Visitors",
                "Alumni"]
 +++
-
-
-+++
