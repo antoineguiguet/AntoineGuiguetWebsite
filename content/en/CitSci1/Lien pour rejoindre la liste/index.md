@@ -8,7 +8,6 @@ external_link: "https://listes.mnhn.fr/wws/subscribe/gallagallica"
 
 ---
 
-Cynipid venom glands are exceptionnally large, our study confirmed that this enlargement was linked with the transition to a gall-inducing lifestyle.
 
 <!--more-->
 
