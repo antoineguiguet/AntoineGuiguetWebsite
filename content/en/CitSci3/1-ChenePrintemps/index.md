@@ -1,6 +1,6 @@
 ---
 title: Quête *Galles de printemps du Chêne*
-date: 2025-04
+# date: 2025-04-01
 image: 
 #  focal_point: 'top'
 
