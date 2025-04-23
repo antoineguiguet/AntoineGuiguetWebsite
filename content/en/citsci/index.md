@@ -109,7 +109,7 @@ sections:
     content:
       title: <font color="#3d8a8b">Quêtes INPN Espèces</font>
       subtitle: 
-      text: Lancé en mars 2021, le dispositif des quêtes INPN Espèces invite le grand public à participer, pendant une période courte et ciblée, à la recherche d’une espèce précise sur un territoire donné. L’objectif : recueillir des données naturalistes utiles aux chercheurs, en réponse à des besoins concrets identifiés dans le cadre de leurs travaux scientifiques. Ces quêtes sont une manière simple, concrète et stimulante de contribuer à la recherche en écologie et en biodiversité.
+      text: Lancé en mars 2021, le dispositif des quêtes INPN Espèces invite le grand public à participer, pendant une période courte et ciblée, à la recherche d’une espèce précise sur un territoire donné. L’objectif, recueillir des données naturalistes utiles aux chercheurs, en réponse à des besoins concrets identifiés dans le cadre de leurs travaux scientifiques. Ces quêtes sont une manière simple, concrète et stimulante de contribuer à la recherche en écologie et en biodiversité.
       filters:
         folders:
           - CitSci3
