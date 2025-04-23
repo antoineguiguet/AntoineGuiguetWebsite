@@ -6,7 +6,7 @@ tags:
 date: "2024-06-13T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://especes.org/produit/les-pigments-rouges-du-vivant-n-52/"
+external_link: "https://especes.org/numeros/numero-52/"
 
 image:
   caption: ""
