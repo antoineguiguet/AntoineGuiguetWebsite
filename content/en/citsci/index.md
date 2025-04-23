@@ -9,7 +9,7 @@ sections:
     content:
       title: Explorer les galles ensemble
       text: |-
-        Les galles sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie et de mieux faire connaître les insectes et autres organismes qui les induisent, j’ai mis en place ou participé à plusieurs initiatives de science participative ouvertes à toutes et tous, quel que soit le niveau d’expertise.
+        Au carrefour de l'entomologie et de la botanique, les galles sont de formidables portes d’entrée vers l’observation de la biodiversité. Longtemps négligées, elles suscitent aujourd’hui un regain d’intérêt chez les naturalistes. Afin de promouvoir la cécidologie et de mieux faire connaître les insectes et autres organismes qui les induisent, mais dans le cadre de mes recherches sur ces organismes, je développe des projets de science participative.
 
         Parmi ces initiatives, [<font color="#550000">la liste de diffusion **Galla Gallica** permet aux naturalistes et chercheurs francophones d’échanger observations, identifications et actualités.</font>](#liste) [<font color="#74ab01"> Sur **iNaturalist**, j’ai lancé un projet dédié aux galles, auquel chacun peut contribuer en partageant ses observations, et je participe également à d'autres projets collaboratifs centrés sur les cécidies.</font>](#iNaturalist) [<font color="#3d8a8b">Sur **INPN Espèces**, j’ai conçu plusieurs quêtes iNaturalist pour guider les naturalistes dans la recherche de galles spécifiques.</font>](#INPN) [<font color="#784421">Pour accompagner ces démarches, j'ai rédigé des **guides de terrain illustrés** facilitant l’identification sur le terrain, et je propose des **recommandations pour l’élevage** des insectes cécidogènes en conditions contrôlées.</font>](#guide)
 
@@ -68,7 +68,7 @@ sections:
 
         Pour rejoindre le projet, il suffit de : 
         1.  Avoir un compte sur iNaturalist. 
-        2.  Devenir membre de l’Observatoire francophone des Galles. 
+        2.  Devenir membre de l’[Observatoire francophone des Galles](https://www.inaturalist.org/projects/observatoire-francophone-des-galles). 
         3.  Annoter ses observations de galles : dans la barre de droite, sous Annotations, sélectionner "Galle" dans l’onglet "Signe de présence". 
         
         Une fois membre du projet, toutes vos observations de galles correctement annotées seront automatiquement intégrées au projet. 
@@ -132,7 +132,7 @@ sections:
     content:
       title: <font color="#784421">Guides d'identification et d'élevage des galles</font>
       subtitle: 
-      text: Les quêtes INPN Espèces permettent de 
+      text: Guides 
       filters:
         folders:
           - CitSci4
