@@ -22,6 +22,9 @@ main:
   - name: Outreach
     url: outreach
     weight: 60
+  - name: Galery
+    url: galery
+    weight: 70
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80
