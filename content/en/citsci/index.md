@@ -104,7 +104,7 @@ sections:
     # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['20px', '0', '20px', '0']
 
-  - block: compact
+  - block: masonry
     id: INPN
     content:
       title: <font color="#3d8a8b">Quêtes INPN Espèces</font>
