@@ -3,7 +3,7 @@ title: "Podcast Après la thèse (FR)"
 summary: ""
 tags:
 - Podcast
-date: "2024-06-13T00:33:00Z"
+date: "2025-04-28T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://creators.spotify.com/pod/profile/apreslathese/episodes/antoine--De-la-thse-aux-collections-du-Musum--un-parcours-sans-frontire-e324br3"
