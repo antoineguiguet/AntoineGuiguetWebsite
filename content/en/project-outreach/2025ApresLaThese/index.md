@@ -1,12 +1,12 @@
 ---
-title: "In Defense of Plants"
+title: "Podcast Après la thèse (FR)"
 summary: ""
 tags:
 - Podcast
-date: "2023-06-04T00:33:00Z"
+date: "2024-06-13T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.indefenseofplants.com/podcast/2023/6/4/pxxjmt3g0lv5ksjfj3hhd1sqmu7y6d"
+external_link: "https://creators.spotify.com/pod/profile/apreslathese/episodes/antoine--De-la-thse-aux-collections-du-Musum--un-parcours-sans-frontire-e324br3"
 
 image:
   caption: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Interview by the podcast In Defense of Plants
+Outreach article explaining my research on Oak gall wasps.

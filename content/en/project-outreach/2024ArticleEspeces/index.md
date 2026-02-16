@@ -1,5 +1,5 @@
 ---
-title: "Article in ESPECES mag"
+title: "Article in ESPECES mag (FR)"
 summary: ""
 tags:
 - Press
