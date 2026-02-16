@@ -1,5 +1,5 @@
 ---
-title: "Wasp Galls Inside and Out"
+title: "Exposition Wasp Galls Inside and Out (EN)"
 summary: ""
 tags:
 - Exhibition

@@ -1,12 +1,12 @@
 ---
-title: "Article dans le mag ESPÈCES"
+title: "Podcast Après la thèse (FR)"
 summary: ""
 tags:
-- Press
-date: "2024-06-13T00:33:00Z"
+- Podcast
+date: "2025-04-28T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://antoine-guiguet.com/outreach/2024Especes.pdf"
+external_link: "https://creators.spotify.com/pod/profile/apreslathese/episodes/antoine--De-la-thse-aux-collections-du-Musum--un-parcours-sans-frontire-e324br3"
 
 image:
   caption: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Article de vulgarisation expliquant mes recherches sur les guêpes à galles du chêne.
+Outreach article explaining my research on Oak gall wasps.

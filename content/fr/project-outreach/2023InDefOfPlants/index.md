@@ -1,9 +1,9 @@
 ---
-title: "In Defense of Plants"
+title: "In Defense of Plants (EN)"
 summary: ""
 tags:
 - Podcast
-date: "2020-05-13T00:33:00Z"
+date: "2023-06-04T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.indefenseofplants.com/podcast/2023/6/4/pxxjmt3g0lv5ksjfj3hhd1sqmu7y6d"
