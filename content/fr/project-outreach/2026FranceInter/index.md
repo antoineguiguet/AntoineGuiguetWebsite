@@ -1,5 +1,5 @@
 ---
-title: "Podcast Guêpe VS Araignée (FR)"
+title: "Podcast Wasp VS Spider (FR)"
 summary: ""
 tags:
 - Podcast
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Invitation à l'émission "Big Bang" de France Inter avec ma collègue Kaïna Privet pour un combat entre guêpe et araignée.
+Invitation to the France Inter show “Big Bang” with my colleague Kaïna Privet for a showdown between a wasp and a spider.
