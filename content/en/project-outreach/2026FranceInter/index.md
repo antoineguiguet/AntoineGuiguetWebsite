@@ -1,12 +1,12 @@
 ---
-title: "Podcast Après la thèse (FR)"
+title: "Podcast Guêpe VS Araignée (FR)"
 summary: ""
 tags:
 - Podcast
-date: "2025-04-28T00:33:00Z"
+date: "2026-03-21T00:33:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://creators.spotify.com/pod/profile/apreslathese/episodes/antoine--De-la-thse-aux-collections-du-Musum--un-parcours-sans-frontire-e324br3"
+external_link: "https://www.radiofrance.fr/franceinter/podcasts/big-bang/big-bang-du-samedi-21-mars-2026-7915490"
 
 image:
   caption: ""
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-Podcast in which I am interviewed about my research career since completing my dissertation.
+Invitation à l'émission "Big Bang" de France Inter avec ma collègue Kaïna Privet pour un combat entre guêpe et araignée.
