@@ -89,6 +89,6 @@ user_groups:
 
 ---
 
-Je suis chercheur et conservateur des Hyménoptères au [Muséum national d'Histoire naturelle à Paris](https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581). Mes recherches visent à comprendre la diversité et l'évolution des insectes gallicoles, avec un intérêt particulier pour les mécanismes moléculaires à l'origine de l'induction des galles et pour la valeur adaptative de ce mode de vie unique. Je me spécialise dans la systématique et l'histoire évolutive des Cynipidae (guêpes à galles), en cherchant à découvrir comment ces insectes manipulent la physiologie et le développement des plantes pour créer des structures galligènes complexes. À travers mon travail, je contribue à documenter et comprendre les interactions subtiles entre les insectes et leurs plantes hôtes.
+Je suis chercheur et curateur des Hyménoptères au [Muséum national d'Histoire naturelle à Paris](https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581). Mes recherches visent à comprendre la diversité et l'évolution des insectes gallicoles, avec un intérêt particulier pour les mécanismes moléculaires à l'origine de l'induction des galles et pour la valeur adaptative de ce mode de vie unique. Je me spécialise dans la systématique et l'histoire évolutive des Cynipidae (guêpes à galles), en cherchant à découvrir comment ces insectes manipulent la physiologie et le développement des plantes pour créer des structures galligènes complexes. À travers mon travail, je contribue à documenter et comprendre les interactions subtiles entre les insectes et leurs plantes hôtes.
 
 
