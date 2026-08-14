@@ -1,5 +1,4 @@
 ---
-# Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
 type: landing
@@ -8,13 +7,18 @@ sections:
   - block: hero
     content:
       title: |
-        Antoine Guiguet, PhD
+        Antoine Guiguet
       image:
         filename: welcome.jpg
       text: |
         <br>
 
-        Researcher and curator for Hymenoptera at the Muséum national d'Histoire naturelle in Paris. My research explores the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.
+        <div class="hero-subtitle">Researcher &amp; Curator for Hymenoptera · Muséum national d'Histoire naturelle</div>
+
+        Exploring the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.
+
+        {{% cta cta_link="../research/" cta_text="Read my research →" %}}
+        {{% cta cta_link="../collection/" cta_text="Hymenoptera Collection →" %}}
     design:
       spacing:
         padding: ['20px', '0', '10px', '0']
@@ -24,7 +28,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 3
+      count: 2
       filters:
         author: ''
         category: ''
@@ -45,7 +49,7 @@ sections:
       title: Recent Publications
       subtitle:
       text:
-      count: 2
+      count: 3
       filters:
         author: ''
         category: ''
@@ -56,7 +60,7 @@ sections:
       order: desc
       page_type: publication
     design:
-      view: compact
+      view: citation
       columns: '1'
       spacing:
         padding: ['10px', '0', '20px', '0']
