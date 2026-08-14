@@ -13,54 +13,44 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        
-        Exploring the evolution and the molecular ecology of plant-insect interactions.
-  
-#  - block: collection
-#    content:
-#      title: Latest News
-#      subtitle:
-#      text:
-#      count: 5
-#      filters:
-#        author: ''
-#        category: ''
-#        exclude_featured: false
-#        publication_type: ''
-#        tag: ''
-#      offset: 0
-#      order: desc
-#      page_type: post
-#   design:
-#      view: card
-#      columns: '1'
-  
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image: 
-#          filename: coders.jpg
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#      css_class: fullscreen
-  
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle:
-#      text: |
-#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-#    design:
-#      columns: '1'
+
+        Researcher and curator for Hymenoptera at the Muséum national d'Histoire naturelle in Paris. My research explores the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: news
+    design:
+      view: card
+      columns: '3'
+
+  - block: collection
+    content:
+      title: Recent Publications
+      subtitle:
+      text:
+      count: 2
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: citation
+      columns: '2'
 ---
