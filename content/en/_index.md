@@ -16,7 +16,7 @@ sections:
 
         Researcher and curator for Hymenoptera at the Muséum national d'Histoire naturelle in Paris. My research explores the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.
 
-- block: collection
+  - block: collection
     content:
       title: Latest News
       subtitle:
