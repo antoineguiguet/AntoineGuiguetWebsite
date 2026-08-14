@@ -17,8 +17,9 @@ sections:
 
         Exploring the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.
 
-        {{% cta cta_link="../research/" cta_text="Read my research →" %}}
-        {{% cta cta_link="../collection/" cta_text="Hymenoptera Collection →" %}}
+        {{% cta cta_link="en/research/" cta_text="Read my research →" %}}
+        {{% cta cta_link="en/collection/" cta_text="Hymenoptera Collection →" %}}
+
     design:
       spacing:
         padding: ['20px', '0', '10px', '0']
