@@ -8,7 +8,7 @@ years: '2024–present'
 organizations:
   - name: Muséum National d'Histoire Naturelle
     url: ''
-bio: Databasing bee collection.
+bio: Databasing bee collection at the MNHN.
 user_groups:
   - Collaborators
 ---
