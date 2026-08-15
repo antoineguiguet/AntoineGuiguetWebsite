@@ -5,5 +5,7 @@ active = true
 weight = 30
 
 title = "Collaborators & Students"
-user_groups = ["Collaborators", "Students", "Alumni"]
+
+[content]
+  user_groups = ["Collaborators", "Students", "Alumni"]
 +++
