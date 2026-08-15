@@ -4,6 +4,7 @@ first_name: Pierre
 last_name: Belloncle
 superuser: false
 role: Master Student
+years: '2025'
 organizations:
   - name: Muséum National d'Histoire Naturelle
     url: ''

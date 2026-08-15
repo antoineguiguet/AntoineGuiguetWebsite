@@ -1,9 +1,10 @@
 ---
-title: Pierre Belloncle
+title: Léo Legendre
 first_name: Léo
 last_name: Legendre
 superuser: false
-role: Master Student
+role: Technician
+years: '2025–present'
 organizations:
   - name: Muséum National d'Histoire Naturelle
     url: ''
