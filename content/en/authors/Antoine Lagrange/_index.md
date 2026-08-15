@@ -1,7 +1,7 @@
 ---
-title: [Full Name]
-first_name: [First]
-last_name: [Last]
+title: titretest
+first_name: Antoine
+last_name: Guiguet
 superuser: false
 role: PhD Student
 organizations:
