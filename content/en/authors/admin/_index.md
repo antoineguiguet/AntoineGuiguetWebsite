@@ -86,7 +86,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Students
+  
 ---
 
 I am a researcher and curator for Hymenoptera at the [Muséum national d'Histoire Naturelle in Paris](https://isyeb.mnhn.fr/fr/annuaire/antoine-guiguet-9581). My research focuses on understanding the diversity and evolution of gall-inducing insects, with a particular interest in the molecular mechanisms underlying gall induction and the adaptive significance of this unique lifestyle. I specialize in the systematics and evolutionary history of Cynipidae (gall wasps), aiming to uncover how these insects manipulate plant physiology and development.
