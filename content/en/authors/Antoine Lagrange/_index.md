@@ -3,7 +3,7 @@ title: [Full Name]
 first_name: [First]
 last_name: [Last]
 superuser: false
-role: [e.g. "PhD Student" / "Collaborator" / "Former Master's Student"]
+role: PhD Student
 organizations:
   - name: [Their institution]
     url: '[institution URL, optional]'
