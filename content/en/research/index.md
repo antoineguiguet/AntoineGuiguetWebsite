@@ -5,113 +5,81 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
-      title: Research
-      text: |-
-        The main theme of my research is the **evolution and chemical ecology of plant-insect interactions**. I study the processes by which insects manipulate plant physiology and development, sometimes leading to the formation of structures known as  **galls**. My work on this subject can be grouped into three interdependent lines of research. [<font color="#6fa8dc">The **first axis** involves research into the molecular mechanisms involved in insect gall formation.</font>](#axis-1) [<font color="#e06666">The **second axis** involves studying the evolution of the gall life style and its adaptive consequences in insects.</font>](#axis-2) Finally, [<font color="#93c47d">the **third axis** of my work involves the systematics of the Gracillariidae (Lepidoptera) and Cynipidae (Hymenoptera).</font>](#axis-3)
-
+      title:
+      subtitle:
+      text: |
+        The main theme of my research is the **evolution and chemical ecology of plant-insect interactions**. I study the processes by which insects manipulate plant physiology and development, sometimes leading to the formation of structures known as **galls**. My work on this subject is organized into three interdependent projects, described below, together with the publications linked to each.
     design:
       columns: '1'
       spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '0', '10px', '0']
 
-  - block: collection
-    id: axis-1
-    content: 
-      title: <font color="#0b5394">Mechanisms of gall-induction in Hymenoptera</font> 
-      subtitle: First axis
-      text: 
-      filters:
-        folders:
-          - Axe1
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
-    # Choose a color such as from https://html-color-codes.info
-      background:
-      #  color: '#cfe2f3'
-       gradient_start: '#cfe2f3'
-       gradient_end: '#ffffff'
-       gradient_angle: 180
-      spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
-
-  - block: collection
-    id: axis-2
+  - block: markdown
+    id: gall-induction-mechanisms
     content:
-      title: <font color="#990000">Evolution of galling in Hymenoptera</font>
-      subtitle: Second axis
-      text: 
-      filters:
-        folders:
-          - Axe2
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
-    # Choose a color such as from https://html-color-codes.info
-      background:
-      #  color: '#f4cccc'
-       gradient_start: '#f4cccc'
-       gradient_end: '#ffffff'
-       gradient_angle: 180
-      spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+      title:
+      subtitle:
+      text: |
+        ### Molecular mechanisms of gall induction in Hymenoptera
 
-  - block: collection
-    id: axis-3
-    content:
-      title: <font color="#38761d">Systematics and Taxonomy</font>
-      subtitle: Third axis
-      text: 
-      filters:
-        folders:
-          - Axe3
+        **Team members:** [names]
+
+        **Main collaborators:** [names, institutions]
+
+        Gall-inducing insects redirect plant development to build highly specialized structures that shelter and feed their larvae. This project investigates the molecular and biochemical mechanisms behind this manipulation, focusing on the salivary and glandular secretions gall-inducing wasps inject into host plant tissue, and how these secretions interact with plant hormonal and defense pathways to trigger gall formation.
+
+        **Related publications:**
+
+        {{% related-pubs "gall-induction-mechanisms" /%}}
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
-      # Choose your content listing view - here we use the `showcase` view
-      view: showcase
-      # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
-    # Choose a color such as from https://html-color-codes.info
-      background:
-    #  color: '#d9ead3'
-       gradient_start: '#d9ead3'
-       gradient_end: '#ffffff'
-       gradient_angle: 180
+      columns: '1'
       spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '0', '0']
-#
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle: ''
-#      text:
-#    design:
-#      columns: '1'
-#      background:
-#        image: 
-#          filename: wasps.png
-#          filters:
-#            brightness: 1
-#          parallax: false
-#          position: center
-#          size: cover
-#          text_color_light: true
-#      spacing:
-#        padding: ['20px', '0', '20px', '0']
-#      css_class: fullscreen
+        padding: ['10px', '0', '10px', '0']
+
+  - block: markdown
+    id: gall-lifestyle-evolution
+    content:
+      title:
+      subtitle:
+      text: |
+        ### Evolution of the gall-inducing lifestyle
+
+        **Team members:** [names]
+
+        **Main collaborators:** [names, institutions]
+
+        Gall induction has evolved independently multiple times across insect lineages. This project examines the ecological and evolutionary consequences of adopting a gall-inducing lifestyle, including its effects on host-plant specialization, diversification, and the evolution of associated communities such as inquilines and parasitoids that exploit galls once they form.
+
+        **Related publications:**
+
+        {{% related-pubs "gall-lifestyle-evolution" /%}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+
+  - block: markdown
+    id: gracillariidae-cynipidae-systematics
+    content:
+      title:
+      subtitle:
+      text: |
+        ### Systematics of Gracillariidae and Cynipidae
+
+        **Team members:** [names]
+
+        **Main collaborators:** [names, institutions]
+
+        Reliable taxonomy underpins every question about the diversification and biology of gall-inducing insects. This project focuses on the systematics of two key gall-associated groups: the leaf-mining moth family Gracillariidae (Lepidoptera) and the gall wasp family Cynipidae (Hymenoptera), combining morphological and molecular approaches to revise and stabilize their classification.
+
+        **Related publications:**
+
+        {{% related-pubs "gracillariidae-cynipidae-systematics" /%}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '20px', '0']
 ---
+
