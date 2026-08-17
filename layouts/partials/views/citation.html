@@ -41,9 +41,9 @@
 
   {{ end }}
 
-  {{ if $item.Params.projects }}
+  {{ if $item.Params.categories }}
   <div class="pub-project-tags">
-    {{ range $item.Params.projects }}
+    {{ range $item.Params.categories }}
     <a class="project-tag" href="/research/#{{ . }}">{{ . | humanize | title }}</a>
     {{ end }}
   </div>
