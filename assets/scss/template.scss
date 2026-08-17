@@ -29,3 +29,221 @@
   object-fit: cover;
   box-shadow: 0 4px 20px rgba(0,0,0,0.08);
 }
+
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+.people-years {
+  font-size: 0.9rem;
+  font-weight: 400;
+  opacity: 0.7;
+  margin-top: -0.5rem;
+}
+
+/* ─── Homepage Hero ─────────────────────────────────────────────── */
+
+.mt-hero {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+@media (max-width: 768px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+  .hero-right {
+    order: -1;
+    align-items: center !important;
+  }
+}
+
+.hero-name {
+  font-size: 2.2rem !important;
+  font-weight: 500 !important;
+  line-height: 1.2 !important;
+  margin-bottom: 0.4rem !important;
+  color: inherit !important;
+}
+
+.hero-position {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 1.25rem;
+}
+
+.hero-desc {
+  font-size: 0.9rem;
+  line-height: 1.75;
+  color: #444;
+  margin-bottom: 1.75rem;
+  max-width: 420px;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.btn-primary {
+  font-size: 0.75rem;
+  padding: 9px 18px;
+  background: #0F6E56;
+  color: #E1F5EE !important;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none !important;
+  letter-spacing: 0.04em;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.btn-primary:hover {
+  background: #085041;
+  color: #E1F5EE !important;
+}
+
+.btn-secondary {
+  font-size: 0.75rem;
+  padding: 9px 18px;
+  background: transparent;
+  color: #555 !important;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-decoration: none !important;
+  letter-spacing: 0.04em;
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.btn-secondary:hover {
+  border-color: #888;
+  color: #222 !important;
+}
+
+.hero-right {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.hero-photo {
+  width: 100%;
+  max-width: 380px;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}
+
+.hero-featured {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 0;
+}
+
+.featured-label {
+  font-size: 0.65rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #999;
+  margin-bottom: 0.75rem;
+}
+
+.featured-book {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 1.25rem;
+  background: #fff;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.featured-book:hover {
+  border-color: #1D9E75;
+  box-shadow: 0 2px 12px rgba(15,110,86,0.08);
+}
+
+.book-spine {
+  width: 48px;
+  height: 64px;
+  background: #1D9E75;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.book-cover-img {
+  width: 48px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+.book-meta {
+  flex: 1;
+}
+
+.book-badge {
+  display: inline-block;
+  font-size: 0.65rem;
+  padding: 2px 8px;
+  background: #E1F5EE;
+  color: #085041;
+  border-radius: 10px;
+  margin-bottom: 6px;
+  letter-spacing: 0.04em;
+}
+
+.book-title {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #222;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+.book-authors {
+  font-size: 0.78rem;
+  color: #888;
+}
+
+.book-arrow {
+  font-size: 1.1rem;
+  color: #1D9E75;
+  flex-shrink: 0;
+}
+
+.dark .hero-desc,
+.dark .hero-position {
+  color: #bbb;
+}
+
+.dark .featured-book {
+  background: rgba(255,255,255,0.04);
+  border-color: rgba(255,255,255,0.1);
+}
+
+.dark .book-title {
+  color: #eee;
+}
