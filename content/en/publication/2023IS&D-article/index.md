@@ -34,6 +34,9 @@ summary: The comparative analysis of gall wasp venom gland apparatus revealed th
 
 tags:
 
+projects:
+  - gall-induction-mechanisms
+
 featured: false
 
 # links:
