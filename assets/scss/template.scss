@@ -21,3 +21,11 @@
   opacity: 0.7;
   margin-top: -0.5rem;
 }
+
+.hero-photo {
+  width: 100%;
+  max-width: 380px;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+}

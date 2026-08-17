@@ -1,0 +1,58 @@
+{{ define "main" }}
+
+<div class="mt-hero">
+  <div class="hero-grid">
+
+    <div class="hero-left">
+      <h1 class="hero-name">Antoine Guiguet</h1>
+      <p class="hero-position">Researcher &amp; Curator for Hymenoptera · Muséum national d'Histoire naturelle</p>
+      <p class="hero-desc">Exploring the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="/research/">Read my research</a>
+        <a class="btn-secondary" href="/collection/">Hymenoptera Collection</a>
+      </div>
+    </div>
+
+    <div class="hero-right">
+      <img src="/media/welcome.jpg" alt="Gall-inducing wasp" class="hero-photo">
+    </div>
+
+  </div>
+
+  {{ $pubs := where site.Pages "Section" "publication" }}
+  {{ $pubs = $pubs.ByDate.Reverse }}
+  {{ with index $pubs 0 }}
+  <div class="hero-featured">
+    <div class="featured-label">Recent publication</div>
+    <a class="featured-book" href="{{ .RelPermalink }}">
+      {{ $cover := .Resources.GetMatch "featured*" }}
+      {{ if $cover }}
+        <img src="{{ ($cover.Fill "64x64 Center").RelPermalink }}" alt="" class="book-cover-img">
+      {{ else }}
+        <div class="book-spine"></div>
+      {{ end }}
+      <div class="book-meta">
+        {{ $journal := .Params.publication | markdownify | plainify }}
+        {{ $journalName := index (split $journal ",") 0 }}
+        <span class="book-badge">New · {{ $journalName }} {{ .Date.Format "2006" }}</span>
+        <div class="book-title">{{ .Title | markdownify }}</div>
+        <div class="book-authors">
+          {{ $authorNames := slice }}
+          {{ range .Params.authors }}
+            {{ if eq . "admin" }}
+              {{ $authorNames = $authorNames | append "Antoine Guiguet" }}
+            {{ else }}
+              {{ $authorNames = $authorNames | append . }}
+            {{ end }}
+          {{ end }}
+          {{ delimit $authorNames ", " }}
+        </div>
+      </div>
+      <span class="book-arrow">→</span>
+    </a>
+  </div>
+  {{ end }}
+
+</div>
+
+{{ end }}
