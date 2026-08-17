@@ -51,7 +51,7 @@ sections:
       background:
         color: '#EAF7F2'
       spacing:
-        padding: ['10px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     id: gall-lifestyle-evolution
