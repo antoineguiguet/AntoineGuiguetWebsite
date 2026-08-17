@@ -287,3 +287,43 @@
 .project-tag:hover {
   background: #9FE1CB;
 }
+
+/* ─── Compact "Related publications" lists on the Research page ──── */
+
+.related-pubs-block .section-heading {
+  text-align: left !important;
+  margin-bottom: 0.4rem !important;
+}
+
+.related-pubs-block .section-heading h1 {
+  font-size: 0.7rem !important;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  color: #666;
+  margin: 0 !important;
+}
+
+.related-pubs-block .article-style,
+.related-pubs-block .ml-3 {
+  display: none;
+}
+
+.related-pubs-block .media.stream-item {
+  margin-bottom: 0.3rem !important;
+  padding: 0 !important;
+}
+
+.related-pubs-block .article-title {
+  margin: 0 !important;
+}
+
+.related-pubs-block .article-title a {
+  font-size: 0.82rem;
+}
+
+.related-pubs-block .stream-meta {
+  font-size: 0.72rem;
+  opacity: 0.7;
+  margin: 0 !important;
+}
