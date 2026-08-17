@@ -14,7 +14,7 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['20px', '0', '10px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     id: gall-induction-mechanisms
@@ -88,7 +88,7 @@ sections:
       background:
         color: '#EAF2F7'
       spacing:
-        padding: ['0px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
 
   - block: markdown
     id: gracillariidae-cynipidae-systematics
@@ -125,6 +125,6 @@ sections:
       background:
         color: '#F7F0EA'
       spacing:
-        padding: ['0px', '0', '20px', '0']
+        padding: ['20px', '0', '20px', '0']
 ---
 Done
