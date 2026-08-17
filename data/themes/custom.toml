@@ -13,3 +13,19 @@ name = "Custom"
   primary = "#9FE1CB"
   link = "#9FE1CB"
   link_hover = "#9FE1CB"
+
+  name = "Custom"
+
+[light]
+  primary = "#0F6E56"
+  menu_primary = "#0F6E56"
+  menu_text = "#ffffff"
+  menu_text_active = "#9FE1CB"
+  menu_title = "#ffffff"
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+[dark]
+  primary = "#9FE1CB"
+  link = "#9FE1CB"
+  link_hover = "#9FE1CB"
