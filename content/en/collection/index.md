@@ -9,7 +9,7 @@ sections:
       title:
       subtitle:
       text: |
-        ![The Hymenoptera collection](/assets/media/collection-banner.jpg)
+        ![The Hymenoptera collection](/media/collection-banner.jpg)
     design:
       columns: '1'
       css_class: collection-banner-block
