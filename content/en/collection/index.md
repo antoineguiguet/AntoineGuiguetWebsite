@@ -3,6 +3,11 @@ title: The Hymenoptera Collection
 date: 2026-08-17
 type: landing
 
+banner:
+  caption: ''
+  image: 'collection-banner.jpg'
+
+
 sections:
   - block: markdown
     content:
