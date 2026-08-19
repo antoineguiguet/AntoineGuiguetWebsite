@@ -9,6 +9,18 @@ sections:
       title:
       subtitle:
       text: |
+        ![The Hymenoptera collection](/media/collection-banner.jpg)
+    design:
+      columns: '1'
+      css_class: collection-banner-block
+      spacing:
+        padding: ['0px', '0', '0px', '0']
+
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
         The Muséum national d'Histoire naturelle holds one of the world's major collections of Hymenoptera, the insect order that includes bees, wasps, ants, and sawflies, among the most diverse groups of animals on Earth, with more than 120,000 described species. As curator, I oversee its day-to-day management, growth, and use by the research community.
 
         The collection comprises close to a million specimens, including around 6,000 type specimens, some dating back to the founding work of Fabricius and Latreille. Most are pinned and dry-preserved, with a smaller portion kept in alcohol (mainly ants) or mounted on microscope slides. Coverage spans bees and sphecid wasps, vespid wasps, ants, cuckoo wasps, parasitoid wasps (Ichneumonoidea and Chalcidoidea), sawflies, and around thirty historic named collections assembled by past entomologists. The Palearctic and Afrotropical regions, notably Madagascar, are especially well represented.
