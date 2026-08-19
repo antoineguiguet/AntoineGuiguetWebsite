@@ -9,17 +9,17 @@ banner:
 
 
 sections:
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        ![The Hymenoptera collection](/media/collection-banner.jpg)
-    design:
-      columns: '1'
-      css_class: collection-banner-block
-      spacing:
-        padding: ['0px', '0', '0px', '0']
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle:
+#      text: |
+#        ![The Hymenoptera collection](/media/collection-banner.jpg)
+#    design:
+#      columns: '1'
+#      css_class: collection-banner-block
+#      spacing:
+#        padding: ['0px', '0', '0px', '0']
 
   - block: markdown
     content:
