@@ -3,23 +3,18 @@ title: The Hymenoptera Collection
 date: 2026-08-17
 type: landing
 
-banner:
-  caption: ''
-  image: 'collection-banner.jpg'
-
-
 sections:
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle:
-#      text: |
-#        ![The Hymenoptera collection](/media/collection-banner.jpg)
-#    design:
-#      columns: '1'
-#      css_class: collection-banner-block
-#      spacing:
-#        padding: ['0px', '0', '0px', '0']
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        ![The Hymenoptera collection](/assets/media/collection-banner.jpg)
+    design:
+      columns: '1'
+      css_class: collection-banner-block
+      spacing:
+        padding: ['0px', '0', '0px', '0']
 
   - block: markdown
     content:
