@@ -29,6 +29,7 @@
   </div>
 
   {{ $pubs := where site.Pages "Section" "publication" }}
+  {{ $pubs = where $pubs "Kind" "page" }}
   {{ $pubs = $pubs.ByDate.Reverse }}
   {{ with index $pubs 0 }}
   <div class="hero-featured">
