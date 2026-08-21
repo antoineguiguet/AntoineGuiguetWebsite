@@ -1,3 +1,8 @@
+</div>
+
+{{ end }}
+
+
 {{ define "main" }}
 
 <div class="mt-hero">
@@ -5,12 +10,21 @@
 
     <div class="hero-left">
       <h1 class="hero-name">Antoine Guiguet</h1>
+      {{ if eq .Lang "fr" }}
+      <p class="hero-position">Chercheur et conservateur des Hyménoptères · Muséum national d'Histoire naturelle</p>
+      <p class="hero-desc">Recherches sur l'évolution et l'écologie moléculaire des interactions plantes-insectes, avec un intérêt particulier pour les mécanismes et la portée adaptative de l'induction de galles par les insectes.</p>
+      <div class="hero-buttons">
+        <a class="btn-primary" href="{{ relLangURL "research/" }}">Lire mes recherches</a>
+        <a class="btn-secondary" href="{{ relLangURL "collection/" }}">Collection d'Hyménoptères</a>
+      </div>
+      {{ else }}
       <p class="hero-position">Researcher &amp; Curator for Hymenoptera · Muséum national d'Histoire naturelle</p>
       <p class="hero-desc">Exploring the evolution and molecular ecology of plant-insect interactions, with a focus on the mechanisms and adaptive significance of gall induction by insects.</p>
       <div class="hero-buttons">
-        <a class="btn-primary" href="/research/">Read my research</a>
-        <a class="btn-secondary" href="/collection/">Hymenoptera Collection</a>
+        <a class="btn-primary" href="{{ relLangURL "research/" }}">Read my research</a>
+        <a class="btn-secondary" href="{{ relLangURL "collection/" }}">Hymenoptera Collection</a>
       </div>
+      {{ end }}
     </div>
 
     <div class="hero-right">
@@ -23,7 +37,7 @@
   {{ $pubs = $pubs.ByDate.Reverse }}
   {{ with index $pubs 0 }}
   <div class="hero-featured">
-    <div class="featured-label">Recent publication</div>
+    <div class="featured-label">{{ if eq $.Lang "fr" }}Publication récente{{ else }}Recent publication{{ end }}</div>
     <a class="featured-book" href="{{ .RelPermalink }}">
       {{ $cover := .Resources.GetMatch "featured*" }}
       {{ if $cover }}
@@ -34,7 +48,7 @@
       <div class="book-meta">
         {{ $journal := .Params.publication | markdownify | plainify }}
         {{ $journalName := index (split $journal ",") 0 }}
-        <span class="book-badge">New · {{ $journalName }} {{ .Date.Format "2006" }}</span>
+        <span class="book-badge">{{ if eq $.Lang "fr" }}Nouveau{{ else }}New{{ end }} · {{ $journalName }} {{ .Date.Format "2006" }}</span>
         <div class="book-title">{{ .Title | markdownify }}</div>
         <div class="book-authors">
           {{ $authorNames := slice }}
