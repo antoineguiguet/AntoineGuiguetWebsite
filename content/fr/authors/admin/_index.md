@@ -47,6 +47,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:antoine.guiguet@mnhn.fr
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/antoine-guiguet-6425b5258/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AntoineGuiguet
