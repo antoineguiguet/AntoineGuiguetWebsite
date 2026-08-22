@@ -65,8 +65,6 @@ sections:
       text: |
         ### Adaptive significance of Cynipid gall morphology
 
-        **Team members:** Antoine Guiguet (postdoctoral research)
-
         **Main collaborators:** Heather Hines, John Tooker, Andy Deans (Penn State University), Robert Warren (SUNY Buffalo State)
 
         ![Illustration: adaptive significance of cynipid gall morphology](/media/project-cynipid-morphology.jpg)
@@ -103,8 +101,6 @@ sections:
       subtitle:
       text: |
         ### Evolution and molecular bases of gall-induction in gall wasps (Cynipidae, Hymenoptera)
-
-        **Team members:** Antoine Guiguet (postdoctoral research)
 
         **Main collaborators:** Heather Hines, John Tooker, Andy Deans (Penn State University)
 
@@ -143,8 +139,6 @@ sections:
       text: |
         ### Evolution of gall-induction in leaf-mining micromoth clade (Gracillariidae, Lepidoptera)
 
-        **Team members:** Antoine Guiguet (PhD research)
-
         **Main collaborators:** David Giron (IRBI), Issei Ohshima (Kyoto Prefectural University), Carlos Lopez-Vaamonde (INRAE URZF)
 
         ![Illustration: evolution of gall induction in Gracillariidae](/media/project-gracillariidae-induction.jpg)
@@ -181,8 +175,6 @@ sections:
       subtitle:
       text: |
         ### Diversity of the genus Mayetiola in Europe
-
-        **Team members:** Antoine Guiguet
 
         **Main collaborators:** Netta Dorchin (Tel Aviv Museum of Natural History), Sébastien Carbonelle
 
