@@ -174,13 +174,13 @@ sections:
       title:
       subtitle:
       text: |
-        ### Diversity of the genus Mayetiola in Europe
+        ### Diversity of the genus *Mayetiola* in Europe
 
         **Main collaborators:** Netta Dorchin (Tel Aviv Museum of Natural History), Sébastien Carbonelle
 
-        ![Illustration: diversity of Mayetiola in Europe](/media/project-mayetiola.jpg)
+        ![Illustration: diversity of *Mayetiola* in Europe](/media/project-mayetiola.jpg)
 
-        Mayetiola is a genus of gall midges (Cecidomyiidae) that includes some of the most damaging agricultural pests worldwide, such as the Hessian fly, yet the diversity and biology of its wild, non-pest relatives remain poorly documented. This project surveys and characterizes the diversity of Mayetiola species across Europe.
+        *Mayetiola* is a genus of gall midges (Cecidomyiidae) that includes some of the most damaging agricultural pests worldwide, such as the Hessian fly, yet the diversity and biology of its wild, non-pest relatives remain poorly documented. This project surveys and characterizes the diversity of *Mayetiola* species across Europe.
     design:
       columns: '1'
       background:
