@@ -31,6 +31,9 @@ summary: Ants disperse oak galls of some cynipid wasp species similarly to how t
 
 tags:
 
+categories:
+  - cynipid-gall-morphology
+
 featured: false
 
 # links:

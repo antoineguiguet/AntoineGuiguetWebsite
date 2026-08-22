@@ -33,6 +33,9 @@ summary: The tissues of the translucent oak gall have a pH between 2 and 3, maki
 
 tags:
 
+categories:
+  - cynipid-gall-morphology
+
 featured: false
 
 # links:
