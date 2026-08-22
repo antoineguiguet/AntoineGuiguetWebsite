@@ -1,5 +1,5 @@
 ---
-title: 'Première mention en France métropolitaine de Melikaiella tumifica (Osten Sacken, 1865), découverte en Alsace (Hymenoptera, Cynipidae)'
+title: 'Première mention en France métropolitaine de *Melikaiella tumifica* (Osten Sacken, 1865), découverte en Alsace (Hymenoptera, Cynipidae)'
 authors:
   - admin
   - Yvan Brahy 

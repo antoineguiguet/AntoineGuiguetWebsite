@@ -1,5 +1,5 @@
 ---
-title: 'Two new species of Caloptilia (Lepidoptera, Gracillariidae) from New Caledonia inducing galls on Glochidion billardierei (Phyllanthaceae) and redescription of C. xanthopharella (Meyrick, 1880)'
+title: 'Two new species of *Caloptilia* (Lepidoptera, Gracillariidae) from New Caledonia inducing galls on *Glochidion billardierei* (Phyllanthaceae) and redescription of *C. xanthopharella* (Meyrick, 1880)'
 authors:
   - admin
   - Erik J. van Nieukerken 
