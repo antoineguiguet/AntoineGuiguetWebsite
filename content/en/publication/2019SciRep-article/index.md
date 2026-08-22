@@ -1,5 +1,5 @@
 ---
-title: 'Origin of gall-inducing from leaf-mining in Caloptilia micromoths (Lepidoptera, Gracillariidae)'
+title: 'Origin of gall-inducing from leaf-mining in *Caloptilia* micromoths (Lepidoptera, Gracillariidae)'
 authors:
   - admin
   - Issei Ohshima
