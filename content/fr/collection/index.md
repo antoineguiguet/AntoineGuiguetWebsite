@@ -35,7 +35,7 @@ sections:
 
         **Consulter les spécimens numérisés et informatisés** via le portail des collections en ligne du Muséum : [Rechercher dans le catalogue des Hyménoptères](https://science.mnhn.fr/institution/mnhn/collection/ey/item/search)
 
-        **Effectuer une demande de prêt, de prélèvement, de photographie ou de visite** via la plateforme MUSE du Muséum : [Soumettre une demande via MUSE](https://muse.mnhn.fr/en)
+        **Effectuer une demande de prêt, de prélèvement, de photographie ou de visite** via la plateforme MUSE du Muséum : [Soumettre une demande via MUSE](https://muse.mnhn.fr/fr)
 
         ## Devenir bénévole à la collection
 

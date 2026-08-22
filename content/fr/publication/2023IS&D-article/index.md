@@ -34,6 +34,9 @@ summary: The comparative analysis of gall wasp venom gland apparatus revealed th
 
 tags:
 
+categories:
+  - cynipidae-gall-induction
+
 featured: false
 
 # links:
