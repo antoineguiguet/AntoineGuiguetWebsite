@@ -34,6 +34,9 @@ summary: The study describes two new gall-inducing Caloptilia species from New C
 
 tags:
 
+categories:
+  - gracillariidae-gall-induction
+
 featured: false
 
 # links:
