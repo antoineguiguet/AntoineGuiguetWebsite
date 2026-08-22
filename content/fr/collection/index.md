@@ -1,5 +1,5 @@
 ---
-title: The Hymenoptera Collection
+title: La collection d'Hyménoptères
 date: 2026-08-17
 type: landing
 
@@ -9,7 +9,7 @@ sections:
       title:
       subtitle:
       text: |
-        ![The Hymenoptera collection](/media/collection-banner.jpg)
+        ![La collection d'Hyménoptères](/media/collection-banner.jpg)
     design:
       columns: '1'
       css_class: collection-banner-block
@@ -21,25 +21,25 @@ sections:
       title:
       subtitle:
       text: |
-        The Muséum national d'Histoire naturelle holds one of the world's major collections of Hymenoptera, the insect order that includes bees, wasps, ants, and sawflies, among the most diverse groups of animals on Earth, with more than 120,000 described species. As curator, I oversee its day-to-day management, growth, and use by the research community.
+        Le Muséum national d'Histoire naturelle abrite l'une des plus importantes collections d'Hyménoptères au monde, cet ordre d'insectes qui regroupe les abeilles, les guêpes, les fourmis et les tenthrèdes, parmi les groupes d'animaux les plus diversifiés sur Terre, avec plus de 120 000 espèces décrites. En tant que conservateur, j'assure la gestion quotidienne, l'enrichissement et la valorisation de cette collection auprès de la communauté scientifique.
 
-        The collection comprises close to a million specimens, including around 6,000 type specimens, some dating back to the founding work of Fabricius and Latreille. Most are pinned and dry-preserved, with a smaller portion kept in alcohol (mainly ants) or mounted on microscope slides. Coverage spans bees and sphecid wasps, vespid wasps, ants, cuckoo wasps, parasitoid wasps (Ichneumonoidea and Chalcidoidea), sawflies, and around thirty historic named collections assembled by past entomologists. The Palearctic and Afrotropical regions, notably Madagascar, are especially well represented.
+        La collection comprend près d'un million de spécimens, dont environ 6 000 types, dont certains remontent aux travaux fondateurs de Fabricius et Latreille. La plupart sont conservés à sec et épinglés, une part plus restreinte étant conservée en alcool (principalement les fourmis) ou montée sur lames pour microscope. Elle couvre les abeilles et les sphécidés, les vespidés, les fourmis, les chrysidiens, les hyménoptères parasitoïdes (Ichneumonoidea et Chalcidoidea), les tenthrèdes, ainsi qu'une trentaine de collections historiques constituées par d'anciens entomologistes. Les régions paléarctique et afrotropicale, notamment Madagascar, y sont particulièrement bien représentées.
 
-        Among its historical holdings, the collection also includes Houard's gall collection, an extensive assemblage documenting plant galls induced by insects, alongside more than 2,000 insect nests, most built by social wasps.
+        Parmi ses fonds historiques, la collection comprend également la collection de galles de Houard, un ensemble important documentant les galles végétales induites par les insectes, ainsi que plus de 2 000 nids d'insectes, pour la plupart construits par des guêpes sociales.
 
-        Each year, around a thousand specimens are loaned to researchers worldwide, and several thousand new specimens are added, largely through European and tropical fieldwork and biodiversity inventories.
+        Chaque année, environ un millier de spécimens sont prêtés à des chercheurs du monde entier, et plusieurs milliers de nouveaux spécimens viennent enrichir la collection, principalement grâce à des missions de terrain et des inventaires de biodiversité menés en Europe et sous les tropiques.
 
-        Learn more on the [MNHN website](https://www.mnhn.fr/fr/collection-des-hymenopteres).
+        Pour en savoir plus, consultez le [site du MNHN](https://www.mnhn.fr/fr/collection-des-hymenopteres).
 
-        ## Access the collection
+        ## Accéder à la collection
 
-        **Browse digitized and databased specimens** through the Muséum's online collections portal: [Search the Hymenoptera catalogue](https://science.mnhn.fr/institution/mnhn/collection/ey/item/search)
+        **Consulter les spécimens numérisés et informatisés** via le portail des collections en ligne du Muséum : [Rechercher dans le catalogue des Hyménoptères](https://science.mnhn.fr/institution/mnhn/collection/ey/item/search)
 
-        **Request a loan, specimen sampling, photograph, or visit** through the Muséum's MUSE platform: [Submit a request via MUSE](https://muse.mnhn.fr/en)
+        **Effectuer une demande de prêt, de prélèvement, de photographie ou de visite** via la plateforme MUSE du Muséum : [Soumettre une demande via MUSE](https://muse.mnhn.fr/en)
 
-        ## Volunteer at the collection
+        ## Devenir bénévole à la collection
 
-        The collection regularly welcomes volunteers to help with curation, digitization, and collection management. If you're interested, please [get in touch](/contact/).
+        La collection accueille régulièrement des bénévoles pour participer à la conservation, à la numérisation et à la gestion de la collection. Si vous êtes intéressé(e), n'hésitez pas à [me contacter](/fr/contact/).
     design:
       columns: '1'
       spacing:

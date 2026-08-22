@@ -33,6 +33,9 @@ summary: Similarly to galls, the leaf-mining moth Borboryctis euryae is capable 
 
 tags:
 
+categories:
+  - gracillariidae-gall-induction
+
 featured: false
 
 # links:

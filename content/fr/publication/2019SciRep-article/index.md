@@ -32,6 +32,9 @@ summary: The description of the life-style of the Gracillariid Caloptilia cecido
 
 tags:
 
+categories:
+  - gracillariidae-gall-induction
+
 featured: false
 
 # links:

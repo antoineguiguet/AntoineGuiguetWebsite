@@ -35,6 +35,9 @@ summary: Cette étude décrit deux nouvelles espèces de Caloptilia induisant de
 
 tags:
 
+categories:
+  - gracillariidae-gall-induction
+
 featured: false
 
 # links:
